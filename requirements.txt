@@ -11,3 +11,6 @@ networkx
 matplotlib
 pyvis
 textract
+streamlit
+numpy
+python-dotenv
