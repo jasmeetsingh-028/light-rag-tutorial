@@ -20,6 +20,7 @@ This project demonstrates the use of the `light-rag` library to build a Retrieva
     ├── test-light-rag.py      # Main script to build the knowledge base
     ├── query.py               # Script to ask questions to the RAG system
     ├── graph_viz.py           # Script to generate the knowledge graph visualization
+    ├── app.py                 # Script to run the interactive web application
     ├── inputs/
     │   └── crops/             # Source .txt documents
     └── rag-working-dir/       # Stores the generated knowledge graph, vector DBs, and caches
@@ -80,3 +81,46 @@ python test-light-rag/graph_viz.py
 ```
 
 This will generate a file named `knowledge_graph.html` in the `test-light-rag` directory. Open this file in your web browser to explore the interactive graph of entities and their relationships.
+
+## Interactive Web Application
+
+This project also includes an interactive web application built with Streamlit. The `app.py` script launches a web server that provides a user-friendly interface to interact with the RAG system.
+
+### Running the Web Application
+
+To run the web application, use the following command:
+
+```bash
+streamlit run test-light-rag/app.py
+```
+
+This will open a new tab in your web browser with the application.
+
+### Features
+
+The web application has two main pages:
+
+1.  **Query RAG**: This page allows you to enter a question and receive an answer from the RAG system. You can also select different search modes and response types.
+2.  **Knowledge Graph**: This page displays the interactive knowledge graph visualization, allowing you to explore the entities and relationships extracted from the documents.
+
+### Demo
+
+Here is a short video demonstrating the web application in action:
+
+![Demo Video](test-light-rag/application-demo-snapshots/query-demo.mp4)
+
+### Snapshots
+
+Here are some snapshots of the web application:
+
+**Query Page**
+
+![Query Page](test-light-rag/application-demo-snapshots/query.png)
+
+**Query Run**
+
+![Query Run](test-light-rag/application-demo-snapshots/query_run.png)
+
+**Knowledge Graph**
+
+![Knowledge Graph](test-light-rag/application-demo-snapshots/knowledge_graph.png)
