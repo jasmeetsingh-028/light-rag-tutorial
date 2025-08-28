@@ -22,7 +22,7 @@ async def embedding_func(texts: list[str]) -> np.ndarray:
     return embedding_model.encode(texts, convert_to_numpy=True)
 
 # Load the RAG model
-# NOTE: Caching is temporarily disabled to work around a bug with asyncio.
+# Caching is temporarily disabled to work around a bug with asyncio.
 # This may result in slower performance as the model is reloaded on each query.
 # @st.cache_resource
 def load_rag_sync():
