@@ -2,6 +2,20 @@
 
 This project demonstrates the use of the `light-rag` library to build a Retrieval-Augmented Generation (RAG) system. It processes a collection of text documents about various crops, builds a knowledge graph, and allows users to ask questions about the content. The system also includes a feature to visualize the underlying knowledge graph.
 
+## Application Snapshots
+
+Here are some snapshots of the web application:
+
+<table>
+  <tr>
+    <td><img src="test-light-rag/application-demo-snapshots/query.png" width="400"/></td>
+    <td><img src="test-light-rag/application-demo-snapshots/query_run.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="test-light-rag/application-demo-snapshots/knowledge_graph.png" width="600"/></td>
+  </tr>
+</table>
+
 ## Features
 
 - **Document Processing**: Ingests text files from a specified directory (`inputs/crops/`).
@@ -102,25 +116,3 @@ The web application has two main pages:
 
 1.  **Query RAG**: This page allows you to enter a question and receive an answer from the RAG system. You can also select different search modes and response types.
 2.  **Knowledge Graph**: This page displays the interactive knowledge graph visualization, allowing you to explore the entities and relationships extracted from the documents.
-
-### Demo
-
-Here is a short video demonstrating the web application in action:
-
-![Demo Video](test-light-rag/application-demo-snapshots/query-demo.mp4)
-
-### Snapshots
-
-Here are some snapshots of the web application:
-
-**Query Page**
-
-![Query Page](test-light-rag/application-demo-snapshots/query.png)
-
-**Query Run**
-
-![Query Run](test-light-rag/application-demo-snapshots/query_run.png)
-
-**Knowledge Graph**
-
-![Knowledge Graph](test-light-rag/application-demo-snapshots/knowledge_graph.png)
