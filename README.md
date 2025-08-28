@@ -12,7 +12,7 @@ Here are some snapshots of the web application:
     <td><img src="test-light-rag/application-demo-snapshots/query_run.png" width="400"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="test-light-rag/application-demo-snapshots/knowledge_graph.png" width="600"/></td>
+    <td colspan="2" align="center"><img src="test-light-rag/application-demo-snapshots/knowledge_graph.png" width="400"/></td>
   </tr>
 </table>
 
