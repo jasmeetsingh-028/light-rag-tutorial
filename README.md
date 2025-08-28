@@ -4,7 +4,7 @@ This project demonstrates the use of the `light-rag` library to build a Retrieva
 
 ## Application Snapshots
 
-Here are some snapshots of the web application:
+Here are some snapshots of the streamlit application:
 
 <table>
   <tr>
