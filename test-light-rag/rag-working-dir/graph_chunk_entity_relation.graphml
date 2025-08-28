@@ -1,0 +1,3342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Onion">
+  <data key="d0">Onion</data>
+  <data key="d1">category</data>
+  <data key="d2">Onion is a bulb vegetable belonging to the family Amaryllidaceae, with the botanical name Allium cepa, and is cultivated widely in various regions.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="India">
+  <data key="d0">India</data>
+  <data key="d1">geo</data>
+  <data key="d2">India is the world's largest consumer and the second largest producer of sugar, with millions of farmers engaged in sugarcane cultivation.&lt;SEP&gt;India ranks second in onion cultivation area and third in total onion production in the world.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51&lt;SEP&gt;chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="North America">
+  <data key="d0">North America</data>
+  <data key="d1">geo</data>
+  <data key="d2">North America is one of the major producing regions for onions in the world.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Japan">
+  <data key="d0">Japan</data>
+  <data key="d1">geo</data>
+  <data key="d2">Japan began cultivating rice around 1000 B.C., marking its historical agricultural significance.&lt;SEP&gt;Japan is identified as one of the major onion producing countries globally.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a&lt;SEP&gt;chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Spain">
+  <data key="d0">Spain</data>
+  <data key="d1">geo</data>
+  <data key="d2">Spain is listed among the major countries producing onions worldwide.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Netherlands">
+  <data key="d0">Netherlands</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Netherlands is also recognized as a major onion production country.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Canada">
+  <data key="d0">Canada</data>
+  <data key="d1">geo</data>
+  <data key="d2">Canada is included in the list of major onion producing countries.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Gujarat">
+  <data key="d0">Gujarat</data>
+  <data key="d1">geo</data>
+  <data key="d2">Gujarat is one of the states in India where onions are grown extensively.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Punjab">
+  <data key="d0">Punjab</data>
+  <data key="d1">geo</data>
+  <data key="d2">Punjab is another Indian state known for significant onion cultivation.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Haryana">
+  <data key="d0">Haryana</data>
+  <data key="d1">geo</data>
+  <data key="d2">Haryana is also a key state in India for onion production.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Maharashtra">
+  <data key="d0">Maharashtra</data>
+  <data key="d1">geo</data>
+  <data key="d2">Maharashtra has about 54,600 hectares dedicated to onion cultivation.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Pusa Red">
+  <data key="d0">Pusa Red</data>
+  <data key="d1">variety</data>
+  <data key="d2">Pusa Red is one of the various onion varieties cultivated.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Pusa Ratnar">
+  <data key="d0">Pusa Ratnar</data>
+  <data key="d1">variety</data>
+  <data key="d2">Pusa Ratnar is an onion variety mentioned in the context of different types of onions.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Pusa White Round">
+  <data key="d0">Pusa White Round</data>
+  <data key="d1">variety</data>
+  <data key="d2">Pusa White Round is another variety of onion noted in the text.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Patna Red">
+  <data key="d0">Patna Red</data>
+  <data key="d1">variety</data>
+  <data key="d2">Patna Red is listed as one of the varieties of onion available.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Poona Red">
+  <data key="d0">Poona Red</data>
+  <data key="d1">variety</data>
+  <data key="d2">Poona Red is an identified onion variety cultivated in the region.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212898</data>
+</node>
+<node id="Arka Pragati">
+  <data key="d0">Arka Pragati</data>
+  <data key="d1">variety</data>
+  <data key="d2">Arka Pragati is one of the varieties of onions mentioned.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Arka Niketa">
+  <data key="d0">Arka Niketa</data>
+  <data key="d1">variety</data>
+  <data key="d2">Arka Niketa is another onion variety discussed in the text.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Patna White">
+  <data key="d0">Patna White</data>
+  <data key="d1">variety</data>
+  <data key="d2">Patna White is one of the varieties of onions referenced in the information.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Bombay White">
+  <data key="d0">Bombay White</data>
+  <data key="d1">variety</data>
+  <data key="d2">Bombay White is mentioned as an onion variety cultivated.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Nasik Red">
+  <data key="d0">Nasik Red</data>
+  <data key="d1">variety</data>
+  <data key="d2">Nasik Red is an onion variety noted for its cultivation.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Irrigation">
+  <data key="d0">Irrigation</data>
+  <data key="d1">category</data>
+  <data key="d2">Irrigation is a key part of potato cultivation, requiring frequent irrigation based on soil and climatic conditions to ensure proper growth.&lt;SEP&gt;Irrigation is crucial for the growth of onion, requiring steady and uninterrupted water supply during growth.&lt;SEP&gt;Irrigation is mentioned as a critical factor in sunflower cultivation, influencing yield based on soil type.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864&lt;SEP&gt;chunk-0c8be1e4136ee203cdd7fc02b5c0ff51&lt;SEP&gt;chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Fertility Management">
+  <data key="d0">Fertility Management</data>
+  <data key="d1">category</data>
+  <data key="d2">Fertility management, including the application of fertilizers and water management, affects the yield and storage of onions.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Storage Conditions">
+  <data key="d0">Storage Conditions</data>
+  <data key="d1">category</data>
+  <data key="d2">Storage conditions such as temperature and humidity are critical factors impacting the shelf life of onions.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Amaryllidaceae">
+  <data key="d0">Amaryllidaceae</data>
+  <data key="d1">category</data>
+  <data key="d2">Amaryllidaceae is the botanical family to which the onion belongs, encompassing various bulb vegetables.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Allium cepa">
+  <data key="d0">Allium cepa</data>
+  <data key="d1">category</data>
+  <data key="d2">Allium cepa is the botanical name of onion, indicating its classification in scientific nomenclature.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="F.Y.M.">
+  <data key="d0">F.Y.M.</data>
+  <data key="d1">category</data>
+  <data key="d2">F.Y.M. (Farm Yard Manure) is a type of organic fertilizer suggested for onion cultivation, indicating nutrient management practices.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Malathion">
+  <data key="d0">Malathion</data>
+  <data key="d1">category</data>
+  <data key="d2">Malathion is a pesticide recommended for protecting onion crops against pests like Thrips.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Nuvacron">
+  <data key="d0">Nuvacron</data>
+  <data key="d1">category</data>
+  <data key="d2">Nuvacron is another pesticide mentioned for controlling Thrips in onion cultivation.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Endosulfan">
+  <data key="d0">Endosulfan</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Endosulfan is a pesticide suggested for managing Borer pests affecting onions.&lt;SEP&gt;Endosulfan is a pesticide used to kill insect vectors that transmit grassy shoot disease in sugarcane.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a&lt;SEP&gt;chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Thimet 10G">
+  <data key="d0">Thimet 10G</data>
+  <data key="d1">category</data>
+  <data key="d2">Thimet 10G is an insecticide recommended for soil application against Maggot pests in onions.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Difolatan">
+  <data key="d0">Difolatan</data>
+  <data key="d1">organization</data>
+  <data key="d2">Difolatan is a chemical fungicide that is used to manage late blight in crops.&lt;SEP&gt;Difolatan is a fungicide suggested for treating Downy mildew in onion crops.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51&lt;SEP&gt;chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Dithane M-45">
+  <data key="d0">Dithane M-45</data>
+  <data key="d1">fungicide</data>
+  <data key="d2">Dithane M-45 is a fungicide used for managing late blight in plants.&lt;SEP&gt;Dithane M-45 is another fungicide recommended for managing Downy mildew in onions.&lt;SEP&gt;Dithane M-45 is a fungicide used to control diseases such as leaf-rust and Alternaria leaf-spot in sunflowers.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864&lt;SEP&gt;chunk-4ff6d4e30cfbcca720e61084e33e1a84&lt;SEP&gt;chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Captan">
+  <data key="d0">Captan</data>
+  <data key="d1">fungicide</data>
+  <data key="d2">Captan is a fungicide mentioned for managing Smut in onion cultivation.&lt;SEP&gt;Captan is a fungicide suggested for the treatment of sunflower seeds to prevent fungal diseases.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864&lt;SEP&gt;chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Biltox">
+  <data key="d0">Biltox</data>
+  <data key="d1">category</data>
+  <data key="d2">Biltox is a fungicide suggested for controlling Smut in onions.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Thiram">
+  <data key="d0">Thiram</data>
+  <data key="d1">category</data>
+  <data key="d2">Thiram is a fungicide noted for its use against Smut in onion crops.</data>
+  <data key="d3">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Onion Storage Structure">
+  <data key="d0">Onion Storage Structure</data>
+  <data key="d1">category</data>
+  <data key="d2">The Onion Storage Structure is designed to prevent weight loss in onions due to temperature and humidity fluctuations, ensuring proper preservation.</data>
+  <data key="d3">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Bavistin">
+  <data key="d0">Bavistin</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Bavistin is a chemical used in the stabilization of storage structures for controlling pests in stored onions.</data>
+  <data key="d3">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Neuocron">
+  <data key="d0">Neuocron</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Neuocron is a chemical involved in the stabilization process of onion storage, used in combination with Bavistin.</data>
+  <data key="d3">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Temperature Management">
+  <data key="d0">Temperature Management</data>
+  <data key="d1">category</data>
+  <data key="d2">Temperature management refers to the practice of controlling temperature levels during the storage of onions to prevent weight loss and sprouting.</data>
+  <data key="d3">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Relative Humidity">
+  <data key="d0">Relative Humidity</data>
+  <data key="d1">category</data>
+  <data key="d2">Relative humidity is a measure that affects onion storage, where lower levels can contribute to weight loss and the overall quality of stored onions.</data>
+  <data key="d3">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Onion Sprouting">
+  <data key="d0">Onion Sprouting</data>
+  <data key="d1">category</data>
+  <data key="d2">Onion sprouting occurs when temperature decreases from July to September, impacting the quality of stored onions.</data>
+  <data key="d3">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212899</data>
+</node>
+<node id="Pea Crop">
+  <data key="d0">Pea Crop</data>
+  <data key="d1">category</data>
+  <data key="d2">The pea crop requires specific climatic, soil, land preparation, fertilizer management, water management, weed control, and plant protection measures for optimal growth.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Wilting Disease">
+  <data key="d0">Wilting Disease</data>
+  <data key="d1">event</data>
+  <data key="d2">Wilting disease, along with root rot and powdery mildew, poses significant risks to pea crops and can be managed with resistant varieties and timely sowing.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Fungal Diseases">
+  <data key="d0">Fungal Diseases</data>
+  <data key="d1">event</data>
+  <data key="d2">Fungal diseases such as damping off and powdery mildew can spread due to high humidity and are a major concern for pea cultivation.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Rachana">
+  <data key="d0">Rachana</data>
+  <data key="d1">organization</data>
+  <data key="d2">Rachana is a pea variety developed in Kanpur, resistant to powdery mildew, with a yield of 22-30 quintals per hectare, maturing in 120-130 days.&lt;SEP&gt;Rachana is a variety of pea that is resistant to powdery mildew and can be cultivated to manage disease risk.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180&lt;SEP&gt;chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Hans">
+  <data key="d0">Hans</data>
+  <data key="d1">organization</data>
+  <data key="d2">Hans is a pea type that matures in 110-120 days and yields about 30-40 quintals of small, round, and white seeds per hectare.&lt;SEP&gt;Hans is another powdery mildew resistant variety that helps in mitigating disease issues in pea crops.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180&lt;SEP&gt;chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Early Badger">
+  <data key="d0">Early Badger</data>
+  <data key="d1">organization</data>
+  <data key="d2">Early Badger is an American introduction pea variety that produces dark green pods and has specific harvesting timelines.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Bonneville">
+  <data key="d0">Bonneville</data>
+  <data key="d1">organization</data>
+  <data key="d2">Bonneville is an American pea variety with a long harvesting period and substantial yield potential.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Arkel">
+  <data key="d0">Arkel</data>
+  <data key="d1">organization</data>
+  <data key="d2">Arkel is a European early variety that produces pods with a significant yield and has a defined growth period.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="N.P.29">
+  <data key="d0">N.P.29</data>
+  <data key="d1">organization</data>
+  <data key="d2">N.P.29 is a pea variety that requires a specific duration for harvesting and yields substantial pods.&lt;SEP&gt;N.P.29 is a pea variety that yields about 100-120 quintals of green pods per hectare and can be picked starting from 75-85 days after sowing.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180&lt;SEP&gt;chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Jawahar Pea-4">
+  <data key="d0">Jawahar Pea-4</data>
+  <data key="d1">organization</data>
+  <data key="d2">Jawahar Pea-4 is a pea variety characterized by its early picking time and yield potential.&lt;SEP&gt;Jawahar Pea-4 is a pea variety that can be first picked in 65-70 days after sowing and yields 80-90 quintals of green pods per hectare.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180&lt;SEP&gt;chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Sandy Clayey Loam">
+  <data key="d0">Sandy Clayey Loam</data>
+  <data key="d1">category</data>
+  <data key="d2">Sandy clayey loam is the preferred soil type for growing peas, characterized by good drainage and a neutral pH level.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="BHC Dust">
+  <data key="d0">BHC Dust</data>
+  <data key="d1">category</data>
+  <data key="d2">BHC dust, specifically 5% BHC or heptachlor dust, is recommended for treating soil to prevent termite attacks before planting peas.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Fertilizer Recommendations">
+  <data key="d0">Fertilizer Recommendations</data>
+  <data key="d1">category</data>
+  <data key="d2">Fertilizer recommendations detail the specific amounts of organic manure and chemical fertilizers needed for optimal pea growth.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Water Management Requirements">
+  <data key="d0">Water Management Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Water management requirements emphasize the need for moisture at sowing and specify irrigation schedules for peas following germination.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Chemical Control Methods">
+  <data key="d0">Chemical Control Methods</data>
+  <data key="d1">category</data>
+  <data key="d2">Chemical control methods involve using pesticides like Thiodan, Menazon, and Dimecron to manage insect pests affecting pea crops.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Depth of Fertilizers">
+  <data key="d0">Depth of Fertilizers</data>
+  <data key="d1">category</data>
+  <data key="d2">Depth of fertilizers refers to the recommended placement of manures and fertilizers in furrows, ensuring optimal nutrient availability for peas.</data>
+  <data key="d3">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Asauji">
+  <data key="d0">Asauji</data>
+  <data key="d1">category</data>
+  <data key="d2">Asauji is a type of pea known for its pod characteristics and yield, which can be picked starting from 75-85 days after sowing.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="T.19">
+  <data key="d0">T.19</data>
+  <data key="d1">category</data>
+  <data key="d2">T.19 is a pea variety that may be picked starting from 75 days after sowing, yielding 80-100 quintals per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="T 56">
+  <data key="d0">T 56</data>
+  <data key="d1">category</data>
+  <data key="d2">T 56 is similar to T.19, with a potential yield of 100-120 quintals of green pods per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Madhu">
+  <data key="d0">Madhu</data>
+  <data key="d1">category</data>
+  <data key="d2">Madhu is a pea type that allows pod picking to start from the 60th day after sowing.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Type-163">
+  <data key="d0">Type-163</data>
+  <data key="d1">category</data>
+  <data key="d2">Type-163 is a pea variety developed in U.P. known for its white flowers and yield of 25-30 quintals of seeds per hectare, maturing in 125-135 days.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="V.L.I">
+  <data key="d0">V.L.I</data>
+  <data key="d1">category</data>
+  <data key="d2">V.L.I is a pea developed from Almora, U.P. which matures in about 165 days and produces light yellowish round seeds with a yield of 25-30 quintals per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Swarn Rekha">
+  <data key="d0">Swarn Rekha</data>
+  <data key="d1">category</data>
+  <data key="d2">Swarn Rekha is a pea variety developed in Bihar that matures in about 125 days and produces 15-22 quintals of round smooth seeds per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="P.G.3">
+  <data key="d0">P.G.3</data>
+  <data key="d1">category</data>
+  <data key="d2">P.G.3 is a pea variety developed in Punjab characterized by white flowers and creamish-white wrinkled seeds, yielding 25-35 quintals per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="E.C.33866">
+  <data key="d0">E.C.33866</data>
+  <data key="d1">category</data>
+  <data key="d2">E.C.33866 is an early maturing pea variety well-suited for high intensity cropping, maturing in 90-110 days with a yield of 25-30 quintals per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="D.M.R.11">
+  <data key="d0">D.M.R.11</data>
+  <data key="d1">category</data>
+  <data key="d2">D.M.R.11 is a pea variety resistant to powdery mildew, maturing in 130 days with a yield of 25-30 quintals per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Harbhajan">
+  <data key="d0">Harbhajan</data>
+  <data key="d1">category</data>
+  <data key="d2">Harbhajan is a selection from an exotic variety that matures in 90-100 days and yields about 15 quintals per hectare with yellowish-white seeds.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Kinnauri">
+  <data key="d0">Kinnauri</data>
+  <data key="d1">category</data>
+  <data key="d2">Kinnauri is a selection from a local variety of H.P. suitable for medium hills, yielding 15-25 quintals per hectare of white, round seeds.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Pant P.5">
+  <data key="d0">Pant P.5</data>
+  <data key="d1">category</data>
+  <data key="d2">Pant P.5 is a pea variety developed in 1985 that matures in 140 days and is resistant to powdery mildew, yielding 15-20 quintals per hectare.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="B. Field Peas">
+  <data key="d0">B. Field Peas</data>
+  <data key="d1">category</data>
+  <data key="d2">B. Field Peas refers to a specific category of pea varieties mentioned in the text, which includes several types developed in different regions with varying attributes.</data>
+  <data key="d3">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756212944</data>
+</node>
+<node id="Potato">
+  <data key="d0">Potato</data>
+  <data key="d1">category</data>
+  <data key="d2">Potato is a type of vegetable that is native to South America and holds significant value as food, being the largest area occupied by any single vegetable.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Sinduri">
+  <data key="d0">Kufri Sinduri</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Sinduri is a medium-maturing potato variety known for its round, light red medium-sized tubers and suitability as a main crop replacement in the plains.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Chandramukhi">
+  <data key="d0">Kufri Chandramukhi</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Chandramukhi is an early maturing variety of potato with attractive oval white tubers, known for its high yields and good storage quality.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Khasi-Garo">
+  <data key="d0">Kufri Khasi-Garo</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Khasi-Garo is an early maturing potato variety with a good degree of field resistance to late blight, suitable for hilly regions of Assam.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Chamatkar">
+  <data key="d0">Kufri Chamatkar</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Chamatkar is an early bulking potato variety characterized by uniform-sized, shining, and smooth tubers.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Shectorn">
+  <data key="d0">Kufri Shectorn</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Shectorn is a frost-resistant potato variety suitable for regions like Punjab, Rajasthan, Haryana, and U.P., and can be planted late.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Jyoti">
+  <data key="d0">Kufri Jyoti</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Jyoti is a widely adaptable, fertilizer-resistant potato variety known for its high degree of field resistance to late blight and other diseases.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Alankar">
+  <data key="d0">Kufri Alankar</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Alankar is a very early-tubering potato variety that is photo insensitive and capable of yielding high outputs, suitable for Northern plains.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Kufri Jeewan">
+  <data key="d0">Kufri Jeewan</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kufri Jeewan is a late-maturing, high-yielding potato variety known for its resistance to late blight and other diseases.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Manures and Fertilizer">
+  <data key="d0">Manures and Fertilizer</data>
+  <data key="d1">category</data>
+  <data key="d2">Manures and Fertilizer refers to various nutrient inputs recommended for potato cultivation to enhance soil quality and crop yield.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Pests and Diseases">
+  <data key="d0">Pests and Diseases</data>
+  <data key="d1">category</data>
+  <data key="d2">Pests and diseases encompass various threats to potato crops, including cut worms, caterpillars, aphids, nematodes, and specific diseases like blight.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Solanaceae">
+  <data key="d0">Solanaceae</data>
+  <data key="d1">category</data>
+  <data key="d2">Solanaceae is the botanical family to which the potato belongs, including various other plants with similar characteristics.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Fertile Soil">
+  <data key="d0">Fertile Soil</data>
+  <data key="d1">category</data>
+  <data key="d2">Fertile soil is essential for the growth of potatoes, as it provides necessary nutrients and proper drainage for cultivation.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Seed Rate">
+  <data key="d0">Seed Rate</data>
+  <data key="d1">category</data>
+  <data key="d2">Seed rate refers to the quantity of seed potatoes needed for planting per unit area, which is specified as 1.40 kg for 10 sq. meters.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Planting Distance">
+  <data key="d0">Planting Distance</data>
+  <data key="d1">category</data>
+  <data key="d2">Planting distance indicates the spacing recommended between potato plants to optimize growth, specifically stated as 50 X 20 cm or 60 X 25 cm.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Irrigation Schedule">
+  <data key="d0">Irrigation Schedule</data>
+  <data key="d1">category</data>
+  <data key="d2">Irrigation schedule outlines the timing and frequency of water application needed for potato cultivation, typically requiring six irrigations.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Cold Storage">
+  <data key="d0">Cold Storage</data>
+  <data key="d1">category</data>
+  <data key="d2">Cold storage is a method used for preserving harvested potatoes, maintaining temperatures between 2.20 C and 3.30 C and humidity levels of 75 to 80%.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Cut Worms">
+  <data key="d0">Cut Worms</data>
+  <data key="d1">pest</data>
+  <data key="d2">Cut worms are a type of pest that can damage potato crops, requiring specific treatments like spraying Dursban or applying Phorate.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Caterpillars">
+  <data key="d0">Caterpillars</data>
+  <data key="d1">pest</data>
+  <data key="d2">Caterpillars are pests that affect potato crops, necessitating control measures such as spraying Thiodan or BHC (10%).</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Aphids">
+  <data key="d0">Aphids</data>
+  <data key="d1">pest</data>
+  <data key="d2">Aphids are pests that can harm potato crops, commonly managed through spraying Rogor or Nuvacron or Malathion.</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Jassids">
+  <data key="d0">Jassids</data>
+  <data key="d1">pest</data>
+  <data key="d2">Jassids are pests that affect potato crops, requiring control methods like spraying Metasystox (0.1%).</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Early Blight">
+  <data key="d0">Early Blight</data>
+  <data key="d1">disease</data>
+  <data key="d2">Early Blight is a disease affecting potatoes, which can be managed by spraying with Dithane M-45 (0.2%).</data>
+  <data key="d3">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Late Blight">
+  <data key="d0">Late Blight</data>
+  <data key="d1">disease</data>
+  <data key="d2">Late Blight is a serious disease in potatoes that can be treated using various fungicides including Dithane M-45 or Zineb.&lt;SEP&gt;Late blight is a plant disease that can be managed using specific fungicides such as Dithane M-45 or Dithane Z-78 or Difolatan or Zineb.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84&lt;SEP&gt;chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Scab">
+  <data key="d0">Scab</data>
+  <data key="d1">disease</data>
+  <data key="d2">Scab is a disease that affects potatoes, treated through tuber disinfection with Agallol-6 or mercuric fungicides.&lt;SEP&gt;Scab is a type of plant disease that requires tubers to be disinfected with Agallol-6 or Mercuric fungicides for management.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84&lt;SEP&gt;chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Virus Disease">
+  <data key="d0">Virus Disease</data>
+  <data key="d1">disease</data>
+  <data key="d2">Virus disease refers to a condition affecting plants that can be managed by using certified seeds and applying specific chemicals.&lt;SEP&gt;Virus diseases are detrimental to potato crops and are managed by using certified seeds and appropriate chemical treatments.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84&lt;SEP&gt;chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Dithane Z-78">
+  <data key="d0">Dithane Z-78</data>
+  <data key="d1">fungicide</data>
+  <data key="d2">Dithane Z-78 is also a fungicide used to manage leaf-rust and Alternaria leaf-spot in sunflower plants.&lt;SEP&gt;Dithane Z-78 is another fungicide effective for controlling late blight.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864&lt;SEP&gt;chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Zineb">
+  <data key="d0">Zineb</data>
+  <data key="d1">organization</data>
+  <data key="d2">Zineb is a fungicide employed to combat late blight in plant management.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Agallol-6">
+  <data key="d0">Agallol-6</data>
+  <data key="d1">organization</data>
+  <data key="d2">Agallol-6 is a fungicide used for disinfecting tubers to manage scab disease.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Mercuric Fungicides">
+  <data key="d0">Mercuric Fungicides</data>
+  <data key="d1">organization</data>
+  <data key="d2">Mercuric fungicides are chemical treatments applied to disinfect tubers against scab disease.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213004</data>
+</node>
+<node id="Metasystox">
+  <data key="d0">Metasystox</data>
+  <data key="d1">organization</data>
+  <data key="d2">Metasystox is a chemical used to manage virus disease, typically applied in a diluted solution.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213005</data>
+</node>
+<node id="Timet">
+  <data key="d0">Timet</data>
+  <data key="d1">organization</data>
+  <data key="d2">Timet is another chemical applied in the furrow before planting to manage virus diseases.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213005</data>
+</node>
+<node id="Furadon">
+  <data key="d0">Furadon</data>
+  <data key="d1">organization</data>
+  <data key="d2">Furadon is a chemical treatment used for managing virus disease in crops.</data>
+  <data key="d3">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213005</data>
+</node>
+<node id="rice">
+  <data key="d0">rice</data>
+  <data key="d1">category</data>
+  <data key="d2">Rice is a staple food that plays a crucial role in the daily meals across various regions of India, particularly in the south and east.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="southern India">
+  <data key="d0">southern India</data>
+  <data key="d1">geo</data>
+  <data key="d2">Southern India is identified as the believed origin of the rice plant and a key area for rice cultivation.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="China">
+  <data key="d0">China</data>
+  <data key="d1">geo</data>
+  <data key="d2">China is one of the countries to which the rice plant spread after originating in southern India.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Korea">
+  <data key="d0">Korea</data>
+  <data key="d1">geo</data>
+  <data key="d2">Korea received rice around 2000 B.C., identifying it as part of its agricultural history.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Philippines">
+  <data key="d0">Philippines</data>
+  <data key="d1">geo</data>
+  <data key="d2">The Philippines is another country that began incorporating rice into its agriculture around 2000 B.C.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Indonesia">
+  <data key="d0">Indonesia</data>
+  <data key="d1">geo</data>
+  <data key="d2">Indonesia started incorporating rice into its agriculture around 1000 B.C., contributing to its diet.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="rice cultivation practices">
+  <data key="d0">rice cultivation practices</data>
+  <data key="d1">event</data>
+  <data key="d2">Rice cultivation practices refer to the methods used in growing rice, including dry and wet cultivation methods.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Kanthi Banko">
+  <data key="d0">Kanthi Banko</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kanthi Banko is a medicinal variety of rice from Chhattisgarh used to treat various health issues.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Meher">
+  <data key="d0">Meher</data>
+  <data key="d1">variety</data>
+  <data key="d2">Meher is a medicinal rice variety known in India for its health benefits.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Saraiphul">
+  <data key="d0">Saraiphul</data>
+  <data key="d1">variety</data>
+  <data key="d2">Saraiphul is another medicinal rice variety from Orissa recognized for its health-related uses.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Danwar">
+  <data key="d0">Danwar</data>
+  <data key="d1">variety</data>
+  <data key="d2">Danwar is a common medicinal rice variety in India used for its beneficial properties.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Atikaya">
+  <data key="d0">Atikaya</data>
+  <data key="d1">variety</data>
+  <data key="d2">Atikaya is a medicinal variety of rice cultivated in Karnataka.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Kari Bhatta">
+  <data key="d0">Kari Bhatta</data>
+  <data key="d1">variety</data>
+  <data key="d2">Kari Bhatta is a common medicinal rice variety in Karnataka known for its health benefits.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Nutritional value of Rice">
+  <data key="d0">Nutritional value of Rice</data>
+  <data key="d1">category</data>
+  <data key="d2">The nutritional value of rice highlights its significance as a source of carbohydrates, providing instant energy.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="uplands">
+  <data key="d0">uplands</data>
+  <data key="d1">geo</data>
+  <data key="d2">Uplands refer to the type of soil and cultivation method used for rice growing, where rice is planted in drier conditions.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="low lands">
+  <data key="d0">low lands</data>
+  <data key="d1">geo</data>
+  <data key="d2">Low lands describe the type of soil and cultivation method for rice, characterized by wetter conditions suitable for rice farming.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Dry or Semi-Dry Upland Cultivation">
+  <data key="d0">Dry or Semi-Dry Upland Cultivation</data>
+  <data key="d1">event</data>
+  <data key="d2">Dry or Semi-Dry Upland Cultivation is a method of rice farming that involves planting rice in drier agricultural conditions.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Wet or Lowland Cultivation">
+  <data key="d0">Wet or Lowland Cultivation</data>
+  <data key="d1">event</data>
+  <data key="d2">Wet or Lowland Cultivation is a rice farming method that involves transplanting rice in puddled fields or broadcasting sprouted seeds in such fields.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Fertile Riverine Alluvial Soil">
+  <data key="d0">Fertile Riverine Alluvial Soil</data>
+  <data key="d1">geo</data>
+  <data key="d2">Fertile Riverine Alluvial Soil is considered the best type of soil for rice cultivation due to its high fertility and water retention capacity.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Clayey Loam Soil">
+  <data key="d0">Clayey Loam Soil</data>
+  <data key="d1">geo</data>
+  <data key="d2">Clayey Loam Soil is recognized as ideal for rice cultivation, especially in monsoon regions, due to its ability to retain water effectively.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Nitrogen">
+  <data key="d0">Nitrogen</data>
+  <data key="d1">category</data>
+  <data key="d2">Nitrogen is one of the essential plant nutrients required for healthy rice growth, along with phosphorus and potassium.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Phosphorus">
+  <data key="d0">Phosphorus</data>
+  <data key="d1">category</data>
+  <data key="d2">Phosphorus is another essential nutrient needed for rice cultivation, contributing to the overall health of the crop.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Potassium">
+  <data key="d0">Potassium</data>
+  <data key="d1">category</data>
+  <data key="d2">Potassium is a crucial nutrient for rice plants, playing a significant role in promoting growth and yield.</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Dańwar">
+  <data key="d0">Dańwar</data>
+  <data key="d3">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d2">Danwar's medicinal applications relate back to the nutritional aspects of rice, reinforcing its health benefits.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213052</data>
+</node>
+<node id="Soybean">
+  <data key="d0">Soybean</data>
+  <data key="d1">category</data>
+  <data key="d2">Soybean is a crop that requires specific climatic conditions for optimal growth, including temperatures between 15 to 32°C and about 60-65 cm of annual rainfall.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Monetta">
+  <data key="d0">Monetta</data>
+  <data key="d1">variety</data>
+  <data key="d2">Monetta is one of the varieties of soybean suitable for cultivation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="M.A.C.S.-13">
+  <data key="d0">M.A.C.S.-13</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S.-13 is a specific soybean variety mentioned as suitable for cultivation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="M.A.C.S.-57">
+  <data key="d0">M.A.C.S.-57</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S.-57 is another variety of soybean used in crop cultivation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="M.A.C.S.-58">
+  <data key="d0">M.A.C.S.-58</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S.-58 is listed as a variety of soybean.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="M.A.C.S-124">
+  <data key="d0">M.A.C.S-124</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S-124 is one of the soybean varieties available for cultivation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="P.K. 472">
+  <data key="d0">P.K. 472</data>
+  <data key="d1">variety</data>
+  <data key="d2">P.K. 472 is a variety of soybean mentioned for cultivation guidance.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="J.S.-80-21">
+  <data key="d0">J.S.-80-21</data>
+  <data key="d1">variety</data>
+  <data key="d2">J.S.-80-21 is a specific variety of soybean referenced in cultivation practices.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="J.S. 335">
+  <data key="d0">J.S. 335</data>
+  <data key="d1">variety</data>
+  <data key="d2">J.S. 335 is another soybean variety that is suggested for cultivation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Kharif Season">
+  <data key="d0">Kharif Season</data>
+  <data key="d1">event</data>
+  <data key="d2">Kharif is one of the cropping seasons for soybean, primarily sown at the onset of monsoon.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Spring Season">
+  <data key="d0">Spring Season</data>
+  <data key="d1">event</data>
+  <data key="d2">Spring is a cropping season for soybean, during which sowing occurs from mid-February to mid-March.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Rhizobium culture">
+  <data key="d0">Rhizobium culture</data>
+  <data key="d1">category</data>
+  <data key="d2">Rhizobium culture is used for seed treatment in soybean cultivation to enhance root nitrogen fixation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Fertilizers">
+  <data key="d0">Fertilizers</data>
+  <data key="d1">category</data>
+  <data key="d2">Fertilizers play a critical role in achieving high yields in sugarcane cultivation, with recommendations varying by planting season.&lt;SEP&gt;Fertilizers, including nitrogen, P2O5, and various micronutrients, are applied to soybean for improved growth and yield.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664&lt;SEP&gt;chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Toke 25">
+  <data key="d0">Toke 25</data>
+  <data key="d1">category</data>
+  <data key="d2">Toke 25 is a type of herbicide used for weed control in soybean crops before sowing.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Soil Type">
+  <data key="d0">Soil Type</data>
+  <data key="d1">category</data>
+  <data key="d2">The best soil type for soybean cultivation is sandy loam that has good organic matter content.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Harvesting Process">
+  <data key="d0">Harvesting Process</data>
+  <data key="d1">event</data>
+  <data key="d2">The harvesting process for soybean includes proper timing and techniques such as using a threshing machine.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213093</data>
+</node>
+<node id="Climate Requirements">
+  <data key="d0">Climate Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Climate Requirements refer to the specific climatic conditions, including temperature and rainfall, necessary for the optimal growth of soybean.&lt;SEP&gt;Sugarcane requires warm humid conditions and specific temperature and rainfall ranges for optimal growth.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664&lt;SEP&gt;chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="Temperature Range">
+  <data key="d0">Temperature Range</data>
+  <data key="d1">category</data>
+  <data key="d2">The Temperature Range for soybean germination is between 15 to 32°C, with higher temperatures needed for rapid growth.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Rainfall Requirements">
+  <data key="d0">Rainfall Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Rainfall Requirements for soybean involve about 60-65 cm of annual rainfall, with specific concerns about the timing of drought and rainfall during flowering and maturity.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Soil Type Requirements">
+  <data key="d0">Soil Type Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Soil Type Requirements specify that the best soil for soybean cultivation is sandy loam with good organic matter content.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Seed Treatment">
+  <data key="d0">Seed Treatment</data>
+  <data key="d1">category</data>
+  <data key="d2">Seed Treatment involves treating soybean seeds with rhizobium culture to improve nitrogen fixation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Spacing">
+  <data key="d0">Spacing</data>
+  <data key="d1">category</data>
+  <data key="d2">Spacing guidelines specify a distance of 45-60 cm by 2.5 cm for Kharif soybean crops and 30-45 cm by 2.5 cm for spring sowing.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Seed Rate for Grain">
+  <data key="d0">Seed Rate for Grain</data>
+  <data key="d1">category</data>
+  <data key="d2">Seed Rate for Grain specifies approximately 20-30 kg of seed per hectare for soybean grown for grain purposes.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Seed Rate for Fodder">
+  <data key="d0">Seed Rate for Fodder</data>
+  <data key="d1">category</data>
+  <data key="d2">Seed Rate for Fodder indicates a requirement of 70-75 kg per hectare during Kharif and 100-120 kg per hectare during spring season.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Water Requirements">
+  <data key="d0">Water Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Water Requirements for soybean vary, with Kharif crops typically grown rainfed, while summer crops need assured irrigation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Crop Rotation">
+  <data key="d0">Crop Rotation</data>
+  <data key="d1">category</data>
+  <data key="d2">Crop Rotation refers to the practice of alternating soybean with other crops such as maize, wheat, and cotton to improve soil health and productivity.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Harvesting Guidelines">
+  <data key="d0">Harvesting Guidelines</data>
+  <data key="d1">category</data>
+  <data key="d2">Harvesting Guidelines outline the indicators of maturity for soybean, such as leaf dropping and moisture content of the seeds.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213094</data>
+</node>
+<node id="Sugarcane">
+  <data key="d0">Sugarcane</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane is a cash crop primarily cultivated in India, recognized for its role in sugar production and economic contribution.&lt;SEP&gt;Sugarcane is a crop that is planted and harvested, requiring specific agricultural practices including irrigation and pest control.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a&lt;SEP&gt;chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="Brazil">
+  <data key="d0">Brazil</data>
+  <data key="d1">geo</data>
+  <data key="d2">Brazil is the largest producer of sugar in the world, surpassing India.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="Farmers">
+  <data key="d0">Farmers</data>
+  <data key="d1">person</data>
+  <data key="d2">Approximately 2.8 lakh farmers cultivate sugarcane in India, indicating the crop's significance for agriculture and livelihoods.&lt;SEP&gt;Farmers participate in the sugarcane harvest by following cutting orders from the Sugarcane Cooperative and are responsible for the supply of sugarcane.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a&lt;SEP&gt;chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="Sugar Industry">
+  <data key="d0">Sugar Industry</data>
+  <data key="d1">organization</data>
+  <data key="d2">The sugar industry in India relies on sugarcane cultivation, providing jobs and generating foreign exchange.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="Soil Requirements">
+  <data key="d0">Soil Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane grows best in medium heavy soils and requires good irrigation and drainage for optimal cultivation.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="Sugarcane Varieties">
+  <data key="d0">Sugarcane Varieties</data>
+  <data key="d1">category</data>
+  <data key="d2">Various sugarcane varieties such as CO - 419 and CO - 740 are noted for their agricultural importance and performance.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213141</data>
+</node>
+<node id="Irrigation Needs">
+  <data key="d0">Irrigation Needs</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane has specific water requirements throughout different growth stages, necessitating careful irrigation management.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="4.4 Lakh Acres">
+  <data key="d0">4.4 Lakh Acres</data>
+  <data key="d1">geo</data>
+  <data key="d2">4.4 lakh acres refers to the vast area of land cultivated with sugarcane in India, crucial for the sugar industry.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="11 Crore People">
+  <data key="d0">11 Crore People</data>
+  <data key="d1">person</data>
+  <data key="d2">Over 11 crore people are dependent on the sugar industry in India, indicating the crop's socioeconomic importance.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO - 419">
+  <data key="d0">CO - 419</data>
+  <data key="d1">category</data>
+  <data key="d2">CO - 419 is a specific variety of sugarcane noted for its agricultural relevance and cultivation in India.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO - 740">
+  <data key="d0">CO - 740</data>
+  <data key="d1">category</data>
+  <data key="d2">CO - 740 is a variety of sugarcane that is cultivated in India, playing a significant role in sugar production.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO - 7219 (Sanjivini)">
+  <data key="d0">CO - 7219 (Sanjivini)</data>
+  <data key="d1">category</data>
+  <data key="d2">CO - 7219 (Sanjivini) is a sugarcane variety mentioned for its importance in cultivation practices.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO.M - 7125">
+  <data key="d0">CO.M - 7125</data>
+  <data key="d1">category</data>
+  <data key="d2">CO.M - 7125 is a variety of sugarcane referenced within the text for agricultural purposes.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO - 7527">
+  <data key="d0">CO - 7527</data>
+  <data key="d1">category</data>
+  <data key="d2">CO - 7527 is another variety of sugarcane significant for its role in Indian agriculture.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO.M - 88121(7714)">
+  <data key="d0">CO.M - 88121(7714)</data>
+  <data key="d1">category</data>
+  <data key="d2">CO.M - 88121(7714) is a variety of sugarcane highlighted in the context of cultivation.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO -8014 (Mahalaxmi)">
+  <data key="d0">CO -8014 (Mahalaxmi)</data>
+  <data key="d1">category</data>
+  <data key="d2">CO -8014 (Mahalaxmi) is a noted variety of sugarcane with agricultural value.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO - 86032 (Nira)">
+  <data key="d0">CO - 86032 (Nira)</data>
+  <data key="d1">category</data>
+  <data key="d2">CO - 86032 (Nira) is a sugarcane variety mentioned for its importance in cultivation efforts.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO.C – 671">
+  <data key="d0">CO.C – 671</data>
+  <data key="d1">category</data>
+  <data key="d2">CO.C – 671 is another sugarcane variety referenced for its agricultural significance.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO.C – 85061">
+  <data key="d0">CO.C – 85061</data>
+  <data key="d1">category</data>
+  <data key="d2">CO.C – 85061 is a sugarcane variety that is similarly recognized for its importance in cultivation.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO - 8011">
+  <data key="d0">CO - 8011</data>
+  <data key="d1">category</data>
+  <data key="d2">CO - 8011 is a variety of sugarcane relevant to the context of agriculture in India.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO.M. – 7114">
+  <data key="d0">CO.M. – 7114</data>
+  <data key="d1">category</data>
+  <data key="d2">CO.M. – 7114 is a sugarcane variety mentioned, highlighting its cultivation importance.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO.S.I – 776">
+  <data key="d0">CO.S.I – 776</data>
+  <data key="d1">category</data>
+  <data key="d2">CO.S.I – 776 is a sugarcane variety noted for its agricultural relevance in the industry.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Termites">
+  <data key="d0">Termites</data>
+  <data key="d1">pest</data>
+  <data key="d2">Termites attack planted sugarcane setts and can cause significant damage to the crop by eating its contents.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Early Shoot-Borer">
+  <data key="d0">Early Shoot-Borer</data>
+  <data key="d1">pest</data>
+  <data key="d2">Early shoot-borer is a pest causing dead-hearts in sugarcane and is more active from April to August.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Internode Borer">
+  <data key="d0">Internode Borer</data>
+  <data key="d1">pest</data>
+  <data key="d2">Internode borer is another pest affecting sugarcane, damaging the growing points and causing dead-hearts.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Red Rot">
+  <data key="d0">Red Rot</data>
+  <data key="d1">disease</data>
+  <data key="d2">Red rot is a fungal disease that appears around six months after planting, causing leaves to dry and clumps to wither.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Whip Smut">
+  <data key="d0">Whip Smut</data>
+  <data key="d1">disease</data>
+  <data key="d2">Whip smut is a fungal disease characterized by excessive tillering and a whip-like structure produced at the end of the shoots.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Grassy Shoot Disease">
+  <data key="d0">Grassy Shoot Disease</data>
+  <data key="d1">disease</data>
+  <data key="d2">Grassy shoot disease is caused by a Mycoplasma-like organism, leading to stunted growth and yellowing of leaves.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Benomyl">
+  <data key="d0">Benomyl</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Benomyl is a systemic fungicide used to treat sugarcane setts before planting to prevent diseases.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Cooperative">
+  <data key="d0">Cooperative</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Cooperative is involved in the sugarcane harvest, coordinating the timing and operation to maximize mill capacity.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="5% Aldrin">
+  <data key="d0">5% Aldrin</data>
+  <data key="d1">chemical</data>
+  <data key="d2">5% Aldrin is a pesticide dust mixed with soil to control termite infestations in sugarcane farming.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Aldrin E.C.">
+  <data key="d0">Aldrin E.C.</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Aldrin E.C. is a diluted pesticide used for controlling termites in standing sugarcane crops.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Fungicide Benomyl">
+  <data key="d0">Fungicide Benomyl</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Fungicide Benomyl is used to dip sugarcane setts prior to planting to prevent fungal diseases like red rot.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-7706">
+  <data key="d0">CO-7706</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-7706 is a resistant variety of sugarcane advised for use against red rot disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-86032">
+  <data key="d0">CO-86032</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-86032 is a variety of sugarcane that is both resistant to red rot and whip smut diseases.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-8021">
+  <data key="d0">CO-8021</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-8021 is a tolerant variety of sugarcane suggested for its resistance to various diseases.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-6608">
+  <data key="d0">CO-6608</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-6608 is a resistant variety of sugarcane suitable for planting to mitigate whip smut disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-6609">
+  <data key="d0">CO-6609</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-6609 is a variety of sugarcane indicated to be resistant to whip smut disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-62101">
+  <data key="d0">CO-62101</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-62101 is a sugarcane variety recommended for its resistance against whip smut disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-1342">
+  <data key="d0">CO-1342</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-1342 is a sugarcane variety known for its resistance to whip smut disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-12582">
+  <data key="d0">CO-12582</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-12582 is a sugarcane variety that shows resistance to whip smut disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-7219">
+  <data key="d0">CO-7219</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-7219 is a resistant variety of sugarcane suggested for use against grassy shoot disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-740">
+  <data key="d0">CO-740</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-740 is a resistant variety of sugarcane appropriate for combating grassy shoot disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="CO-8011">
+  <data key="d0">CO-8011</data>
+  <data key="d1">category</data>
+  <data key="d2">CO-8011 is a sugarcane variety recommended for its resistance to grassy shoot disease.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Sugarcane Harvest">
+  <data key="d0">Sugarcane Harvest</data>
+  <data key="d1">event</data>
+  <data key="d2">The Sugarcane Harvest is a coordinated event that typically begins in early November and lasts for about 150 days, involving farmers and factory authorities in the harvesting process.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Sugarcane Cooperative">
+  <data key="d0">Sugarcane Cooperative</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Sugarcane Cooperative oversees the sugarcane harvest and issues cutting orders to farmers based on planting dates and crop maturity.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Maturity Status">
+  <data key="d0">Maturity Status</data>
+  <data key="d1">category</data>
+  <data key="d2">Maturity Status refers to the condition of sugarcane assessed through laboratory analysis, indicating when it is the right time for harvest.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Harvesting Unit">
+  <data key="d0">Harvesting Unit</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Harvesting Unit consists of several harvesters and tractors operating together to efficiently cut and transport sugarcane.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Sugarcane Yield">
+  <data key="d0">Sugarcane Yield</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane Yield measures the average output of sugarcane per hectare, with specific figures for different types of sugarcane crops.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Mill">
+  <data key="d0">Mill</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Mill is involved in the processing of sugarcane, utilizing its grinding capacity during the sugarcane harvest.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Cutting Orders">
+  <data key="d0">Cutting Orders</data>
+  <data key="d1">category</data>
+  <data key="d2">Cutting Orders are directives issued by the factory authorities based on planting dates, guiding farmers in the sugarcane harvesting process.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Electricity">
+  <data key="d0">Electricity</data>
+  <data key="d1">category</data>
+  <data key="d2">Electricity is implied as a potential resource for powering the equipment used during the sugarcane harvesting and processing.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213142</data>
+</node>
+<node id="Transfer Stations">
+  <data key="d0">Transfer Stations</data>
+  <data key="d1">geo</data>
+  <data key="d2">Transfer Stations are locations where harvested sugarcane is transported to before being loaded onto semi-trailers for delivery.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213143</data>
+</node>
+<node id="SOIL REQUIREMENTS">
+  <data key="d0">SOIL REQUIREMENTS</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d2">Different sugarcane varieties thrive in varying soil conditions, linking variety to agronomic practices.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213143</data>
+</node>
+<node id="Sunflower">
+  <data key="d0">Sunflower</data>
+  <data key="d1">category</data>
+  <data key="d2">Sunflower (Helianthus annuus L.) is primarily cultivated for its oil, which is used in cooking, soap, and cosmetics. Its residue is a high-protein feed for cattle and poultry.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="E.C.68413">
+  <data key="d0">E.C.68413</data>
+  <data key="d1">variety</data>
+  <data key="d2">E.C.68413 is one of the sunflower varieties listed for agricultural cultivation.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="E.C. 68414">
+  <data key="d0">E.C. 68414</data>
+  <data key="d1">variety</data>
+  <data key="d2">E.C. 68414 (Peredovick) is another variety of sunflower highlighted in the document.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="E.C. 68415">
+  <data key="d0">E.C. 68415</data>
+  <data key="d1">variety</data>
+  <data key="d2">E.C. 68415 (Armavirskij) is mentioned as a variety suitable for sunflower cultivation.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="E.C. 69874">
+  <data key="d0">E.C. 69874</data>
+  <data key="d1">variety</data>
+  <data key="d2">E.C. 69874 (Armaverts) is recognized as a sunflower variety in agricultural practices.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="E.C. 101495">
+  <data key="d0">E.C. 101495</data>
+  <data key="d1">variety</data>
+  <data key="d2">E.C. 101495 (Cernianka) is a recently introduced short-duration sunflower variety.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Grasshopper">
+  <data key="d0">Grasshopper</data>
+  <data key="d1">pest</data>
+  <data key="d2">Grasshopper (Atractomorpha crenulata F.) is identified as a pest affecting sunflower crops.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Capitulum-borer">
+  <data key="d0">Capitulum-borer</data>
+  <data key="d1">pest</data>
+  <data key="d2">Capitulum-borer (Heliothis armigera Hb) is noted as another pest that impacts sunflower cultivation.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Leaf-rust">
+  <data key="d0">Leaf-rust</data>
+  <data key="d1">disease</data>
+  <data key="d2">Leaf-rust is a disease affecting sunflowers, with control measures specified.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Alternaria leaf-spot">
+  <data key="d0">Alternaria leaf-spot</data>
+  <data key="d1">disease</data>
+  <data key="d2">Alternaria leaf-spot is a documented disease of sunflowers that requires control strategies.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Root-rot">
+  <data key="d0">Root-rot</data>
+  <data key="d1">disease</data>
+  <data key="d2">Root-rot is mentioned as a disease affecting the root systems of sunflower plants, with specific treatments.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="NPK Fertilizers">
+  <data key="d0">NPK Fertilizers</data>
+  <data key="d1">fertilizer</data>
+  <data key="d2">NPK fertilizers are nutrient fertilizers recommended for optimizing sunflower growth in rainfed and irrigated conditions.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Gunny Bags">
+  <data key="d0">Gunny Bags</data>
+  <data key="d1">equipment</data>
+  <data key="d2">Gunny bags are used for storing cleaned sunflower seeds post-harvest.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="90-100 Days">
+  <data key="d0">90-100 Days</data>
+  <data key="d1">event</data>
+  <data key="d2">90-100 Days refers to the duration required for sunflower crops to mature before harvesting.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Vanaspati">
+  <data key="d0">Vanaspati</data>
+  <data key="d1">category</data>
+  <data key="d2">Vanaspati is a type of refined vegetable oil used for culinary purposes, particularly in cooking, and derived from sunflower oil.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Soaps and Cosmetics">
+  <data key="d0">Soaps and Cosmetics</data>
+  <data key="d1">category</data>
+  <data key="d2">Soaps and cosmetics are products made utilizing sunflower oil, showcasing its versatility in personal care.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Cattle Feed">
+  <data key="d0">Cattle Feed</data>
+  <data key="d1">category</data>
+  <data key="d2">Cattle feed is composed of sunflower cake, which is rich in protein, making it beneficial for livestock.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Poultry Feed">
+  <data key="d0">Poultry Feed</data>
+  <data key="d1">category</data>
+  <data key="d2">Poultry feed also includes sunflower cake, providing nutritional benefits for poultry farming.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Brassical">
+  <data key="d0">Brassical</data>
+  <data key="d1">fungicide</data>
+  <data key="d2">Brassical is a substance recommended for the treatment of sunflower seeds to control seed-borne fungal diseases.</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213190</data>
+</node>
+<node id="Control">
+  <data key="d0">Control</data>
+  <data key="d3">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d2">Management strategies for the Grasshopper pest include specific sprays to mitigate damage.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756213191</data>
+</node>
+<edge source="Onion" target="India">
+  <data key="d6">9.0</data>
+  <data key="d7">Onion is extensively cultivated in India, ranking among the top countries in onion production.</data>
+  <data key="d8">agriculture,production</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Gujarat">
+  <data key="d6">8.0</data>
+  <data key="d7">Onions are grown extensively in Gujarat, contributing to the state's agricultural output.</data>
+  <data key="d8">agriculture,regional cultivation</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Punjab">
+  <data key="d6">8.0</data>
+  <data key="d7">Punjab is one of the states in India known for significant onion cultivation.</data>
+  <data key="d8">agriculture,regional cultivation</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Haryana">
+  <data key="d6">8.0</data>
+  <data key="d7">Haryana is also recognized for its contribution to onion farming in India.</data>
+  <data key="d8">agriculture,regional cultivation</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="North America">
+  <data key="d6">7.0</data>
+  <data key="d7">North America is a major producing region for onions, contributing to global production.</data>
+  <data key="d8">agriculture,global production</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Japan">
+  <data key="d6">7.0</data>
+  <data key="d7">Japan is acknowledged as a key player in worldwide onion production.</data>
+  <data key="d8">agriculture,global production</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Spain">
+  <data key="d6">7.0</data>
+  <data key="d7">Spain contributes to onion production as one of the major producing countries.</data>
+  <data key="d8">agriculture,global production</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Netherlands">
+  <data key="d6">7.0</data>
+  <data key="d7">The Netherlands is involved in substantial onion production, making it a significant player in the global market.</data>
+  <data key="d8">agriculture,global production</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Canada">
+  <data key="d6">7.0</data>
+  <data key="d7">Canada is highlighted as a major onion producing country on the global stage.</data>
+  <data key="d8">agriculture,global production</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Maharashtra">
+  <data key="d6">8.0</data>
+  <data key="d7">Maharashtra dedicates a large area to onion cultivation, contributing to overall production in India.</data>
+  <data key="d8">agriculture,regional cultivation</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Irrigation">
+  <data key="d6">9.0</data>
+  <data key="d7">Irrigation practices are essential for ensuring the growth and yield of onions.</data>
+  <data key="d8">agriculture,growth requirements</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212899</data>
+</edge>
+<edge source="Onion" target="Fertility Management">
+  <data key="d6">9.0</data>
+  <data key="d7">Fertility management, including fertilizer application, is critical for onion yield and quality.</data>
+  <data key="d8">agriculture,production factors</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Storage Conditions">
+  <data key="d6">9.0</data>
+  <data key="d7">Storage conditions are vital for maintaining onion quality and extending shelf life.</data>
+  <data key="d8">quality preservation,shelf life</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Amaryllidaceae">
+  <data key="d6">9.0</data>
+  <data key="d7">Onion belongs to the Amaryllidaceae family, indicating its botanical classification.</data>
+  <data key="d8">botanical classification,family relationship</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Allium cepa">
+  <data key="d6">9.0</data>
+  <data key="d7">Onion is scientifically classified as Allium cepa, reflecting its botanical name.</data>
+  <data key="d8">nomenclature,scientific classification</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="F.Y.M.">
+  <data key="d6">8.0</data>
+  <data key="d7">F.Y.M. is suggested as a fertilizer for onions, indicating its importance in nutrient management.</data>
+  <data key="d8">agricultural practices,fertilization</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Malathion">
+  <data key="d6">8.0</data>
+  <data key="d7">Malathion is used for pest control in onion farming, showing its relevance to crop protection.</data>
+  <data key="d8">agricultural practices,pest management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Nuvacron">
+  <data key="d6">8.0</data>
+  <data key="d7">Nuvacron is recommended for controlling pests in onion cultivation, indicating its use in crop management.</data>
+  <data key="d8">agricultural practices,pest management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Endosulfan">
+  <data key="d6">8.0</data>
+  <data key="d7">Endosulfan is utilized to manage Borer pests in onion crops, showing its relevance in pest control.</data>
+  <data key="d8">agricultural practices,pest management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Thimet 10G">
+  <data key="d6">8.0</data>
+  <data key="d7">Thimet 10G is recommended for managing Maggot pests in onions, underlining its necessity in crop protection.</data>
+  <data key="d8">agricultural practices,pest management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Difolatan">
+  <data key="d6">8.0</data>
+  <data key="d7">Difolatan is proposed for treating Downy mildew in onion, emphasizing its role in disease management.</data>
+  <data key="d8">agricultural practices,disease management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Dithane M-45">
+  <data key="d6">8.0</data>
+  <data key="d7">Dithane M-45 is used for managing Downy mildew in onions, highlighting its importance in protecting crops from fungal diseases.</data>
+  <data key="d8">agricultural practices,disease management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Captan">
+  <data key="d6">8.0</data>
+  <data key="d7">Captan is suggested for controlling Smut in onions, indicating its relevance to disease management practices.</data>
+  <data key="d8">agricultural practices,disease management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Biltox">
+  <data key="d6">8.0</data>
+  <data key="d7">Biltox is utilized for treating Smut in onion crops, showcasing its importance in crop protection.</data>
+  <data key="d8">agricultural practices,disease management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion" target="Thiram">
+  <data key="d6">8.0</data>
+  <data key="d7">Thiram is recommended to control Smut in onions, emphasizing its role in disease protection.</data>
+  <data key="d8">agricultural practices,disease management</data>
+  <data key="d9">chunk-0c8be1e4136ee203cdd7fc02b5c0ff51</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="India" target="Sugarcane">
+  <data key="d6">9.0</data>
+  <data key="d7">India is the largest consumer and second largest producer of sugar, directly linking its agriculture to sugarcane cultivation.</data>
+  <data key="d8">agriculture,economic impact</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Japan" target="rice">
+  <data key="d6">6.0</data>
+  <data key="d7">Japan's cultivation of rice from 1000 B.C. indicates its climatic suitability and agricultural practices.</data>
+  <data key="d8">agricultural practices,historical cultivation</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="Irrigation" target="Potato">
+  <data key="d6">9.0</data>
+  <data key="d7">Effective irrigation practices are essential for potato cultivation, showing the interdependent nature of water management in agriculture.".</data>
+  <data key="d8">agricultural practices,water management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Irrigation" target="Sunflower">
+  <data key="d6">8.0</data>
+  <data key="d7">Irrigation requirements are crucial for sunflower crops, impacting their growth and yield depending on soil type.</data>
+  <data key="d8">crop yield,water management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Endosulfan" target="Grassy Shoot Disease">
+  <data key="d6">8.0</data>
+  <data key="d7">Endosulfan helps control insect vectors that spread grassy shoot disease in sugarcane.</data>
+  <data key="d8">disease prevention,pest control</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Difolatan" target="Late Blight">
+  <data key="d6">7.0</data>
+  <data key="d7">Difolatan is another fungicide that can be used to manage late blight.</data>
+  <data key="d8">disease management,fungicide</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Dithane M-45" target="Late Blight">
+  <data key="d6">7.0</data>
+  <data key="d7">Dithane M-45 is suggested for managing late blight in plants.</data>
+  <data key="d8">disease management,fungicide</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Dithane M-45" target="Leaf-rust">
+  <data key="d6">9.0</data>
+  <data key="d7">Dithane M-45 is used to control leaf-rust, a significant fungal disease affecting sunflowers.</data>
+  <data key="d8">agricultural practice,disease control</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Dithane M-45" target="Alternaria leaf-spot">
+  <data key="d6">9.0</data>
+  <data key="d7">Dithane M-45 also helps manage Alternaria leaf-spot in sunflower cultivation.</data>
+  <data key="d8">agricultural practice,disease control</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Captan" target="E.C.68413">
+  <data key="d6">8.0</data>
+  <data key="d7">Captan is recommended for the treatment of E.C.68413 seeds, aimed at disease prevention.</data>
+  <data key="d8">crop protection,seed treatment</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Onion Storage Structure" target="Bavistin">
+  <data key="d6">8.0</data>
+  <data key="d7">Bavistin is used in the maintenance of the onion storage structure to control pests.</data>
+  <data key="d8">chemical use,pest control</data>
+  <data key="d9">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion Storage Structure" target="Neuocron">
+  <data key="d6">8.0</data>
+  <data key="d7">Neuocron is also used in the maintenance of the onion storage structure along with Bavistin for pest control.</data>
+  <data key="d8">chemical use,pest control</data>
+  <data key="d9">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion Storage Structure" target="Temperature Management">
+  <data key="d6">9.0</data>
+  <data key="d7">The Onion Storage Structure is designed to manage temperature to prevent weight loss in stored onions.</data>
+  <data key="d8">storage quality,temperature control</data>
+  <data key="d9">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Onion Storage Structure" target="Relative Humidity">
+  <data key="d6">8.0</data>
+  <data key="d7">Relative humidity is a critical factor controlled within the Onion Storage Structure to prevent weight loss.</data>
+  <data key="d8">humidity control,storage conditions</data>
+  <data key="d9">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Temperature Management" target="Onion Sprouting">
+  <data key="d6">8.0</data>
+  <data key="d7">Effective temperature management can help prevent the sprouting of onions when temperatures fall.</data>
+  <data key="d8">preventative measures,quality preservation</data>
+  <data key="d9">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Relative Humidity" target="Onion Sprouting">
+  <data key="d6">7.0</data>
+  <data key="d7">When relative humidity is low, it can contribute to the sprouting of onions during storage.</data>
+  <data key="d8">quality impact,storage challenges</data>
+  <data key="d9">chunk-59b92a8fa20243f570ca2d6386b3edc1</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212900</data>
+</edge>
+<edge source="Pea Crop" target="Wilting Disease">
+  <data key="d6">8.0</data>
+  <data key="d7">The risk of wilting disease is a significant factor that affects the growth and management of pea crops.</data>
+  <data key="d8">crop health,disease management</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Pea Crop" target="Fungal Diseases">
+  <data key="d6">9.0</data>
+  <data key="d7">Fungal diseases such as damping off and powdery mildew threaten the health of the pea crop due to environmental conditions.</data>
+  <data key="d8">crop protection,disease risk</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Pea Crop" target="Early Badger">
+  <data key="d6">6.0</data>
+  <data key="d7">Early Badger is cultivated as a variety of pea with specific growth and harvesting conditions beneficial for farmers.</data>
+  <data key="d8">agricultural introduction,crop variety</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Pea Crop" target="Bonneville">
+  <data key="d6">7.0</data>
+  <data key="d7">Bonneville provides a significant yield for pea crops but requires a longer time for harvesting, making it distinct among other variants.</data>
+  <data key="d8">crop yield,growth duration</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Pea Crop" target="Arkel">
+  <data key="d6">7.0</data>
+  <data key="d7">Arkel's characteristics allow it to be an effective crop variety for maximizing pea yields in specific conditions.</data>
+  <data key="d8">agriculture,crop performance</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Pea Crop" target="N.P.29">
+  <data key="d6">8.0</data>
+  <data key="d7">N.P.29 yields well under optimal conditions, contributing positively to pea crop production outcomes.</data>
+  <data key="d8">agricultural strategy,yield potential</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Pea Crop" target="Jawahar Pea-4">
+  <data key="d6">6.0</data>
+  <data key="d7">Jawahar Pea-4 is associated with early harvesting, aligning with the overall strategies for managing pea crop development.</data>
+  <data key="d8">agricultural timing,crop management</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Pea Crop" target="Sandy Clayey Loam">
+  <data key="d6">8.0</data>
+  <data key="d7">The sandy clayey loam provides the ideal soil conditions necessary for the growth of pea crops.</data>
+  <data key="d8">crop requirements,soil suitability</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Pea Crop" target="BHC Dust">
+  <data key="d6">7.0</data>
+  <data key="d7">Applying BHC dust to the soil ensures the protection of pea crops from termite infestations during early growth stages.</data>
+  <data key="d8">pest prevention,soil treatment</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Pea Crop" target="Fertilizer Recommendations">
+  <data key="d6">9.0</data>
+  <data key="d7">Fertilizer recommendations outline the nutrient requirements essential for the successful cultivation of pea crops.</data>
+  <data key="d8">agricultural management,nutritional needs</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Pea Crop" target="Water Management Requirements">
+  <data key="d6">8.0</data>
+  <data key="d7">Water management requirements specify the irrigation strategies necessary for maintaining soil moisture for healthy pea crops.</data>
+  <data key="d8">crop health,irrigation strategies</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Pea Crop" target="Chemical Control Methods">
+  <data key="d6">8.0</data>
+  <data key="d7">Chemical control methods are suggested to manage pests that can attack the pea crop, ensuring better yield and quality.</data>
+  <data key="d8">crop protection,pest management</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Fungal Diseases" target="Rachana">
+  <data key="d6">8.0</data>
+  <data key="d7">Rachana's powdery mildew resistance makes it suitable for cultivation in environments prone to fungal diseases.</data>
+  <data key="d8">disease resistance,variety selection</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Fungal Diseases" target="Hans">
+  <data key="d6">7.0</data>
+  <data key="d7">Hans's resistance to powdery mildew positions it as a viable option for growers facing fungal threats.</data>
+  <data key="d8">crop choice,disease management</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Rachana" target="Type-163">
+  <data key="d6">6.0</data>
+  <data key="d7">Both Type-163 and Rachana are varieties of peas developed in different regions, both with similar maturation times and yield characteristics.</data>
+  <data key="d8">development comparison,yield</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Hans" target="P.G.3">
+  <data key="d6">6.0</data>
+  <data key="d7">P.G.3 and Hans are related as they are both pea varieties characterized by specific flowering traits and yield outputs.</data>
+  <data key="d8">variety comparison,yield</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Hans" target="Harbhajan">
+  <data key="d6">6.0</data>
+  <data key="d7">Hans and Harbhajan are both varieties of peas belonging to B. Field Peas, with specific maturation timelines and yield outputs.</data>
+  <data key="d8">variety comparison,yield</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="N.P.29" target="Asauji">
+  <data key="d6">6.0</data>
+  <data key="d7">Asauji and N.P.29 are both varieties of peas with specific characteristics regarding pod picking times and yield per hectare.</data>
+  <data key="d8">variety comparison,yield</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212944</data>
+</edge>
+<edge source="Jawahar Pea-4" target="T.19">
+  <data key="d6">6.0</data>
+  <data key="d7">Jawahar Pea-4 and T.19 are related as they both have specific picking times and yield similar quantities of green pods per hectare.</data>
+  <data key="d8">agricultural yield,variety comparison</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Fertilizer Recommendations" target="Depth of Fertilizers">
+  <data key="d6">7.0</data>
+  <data key="d7">The depth of fertilizers refers to how deeply fertilizers should be placed in relation to the fertilizer management suggested for peas.</data>
+  <data key="d8">agricultural practice,nutrient placement</data>
+  <data key="d9">chunk-d83d2667e4a3e6bb1fd6daee5e022180</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="T.19" target="T 56">
+  <data key="d6">7.0</data>
+  <data key="d7">T.19 and T 56 are both associated with specific picking times and yield ranges, indicating their similarities as pea varieties.</data>
+  <data key="d8">variety comparison,yield</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Type-163" target="Pant P.5">
+  <data key="d6">6.0</data>
+  <data key="d7">Pant P.5 and Type-163 are both developed varieties aimed at high yields and resistant traits, indicating their shared breeding focus.</data>
+  <data key="d8">development focus,yield</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Type-163" target="B. Field Peas">
+  <data key="d6">7.0</data>
+  <data key="d7">B. Field Peas encompasses various specific types, including Type-163, which is developed in U.P. and has its own yield and maturing characteristics.</data>
+  <data key="d8">category relationship,variety classification</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="V.L.I" target="Swarn Rekha">
+  <data key="d6">5.0</data>
+  <data key="d7">V.L.I and Swarn Rekha are pea varieties that differ in maturation times and yield per hectare, demonstrating their distinct farming attributes.</data>
+  <data key="d8">maturation,variety comparison</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="E.C.33866" target="D.M.R.11">
+  <data key="d6">7.0</data>
+  <data key="d7">E.C.33866 and D.M.R.11 are both early and mid-maturing pea varieties known for their disease resistance and yield profiles.</data>
+  <data key="d8">disease resistance,maturity comparison</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Harbhajan" target="Kinnauri">
+  <data key="d6">5.0</data>
+  <data key="d7">Both Harbhajan and Kinnauri are local selections of peas with specific attributes related to maturation and yield in their respective areas.</data>
+  <data key="d8">local selection,yield</data>
+  <data key="d9">chunk-6d0e396867ed268c0f273139ac0e96cf</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756212945</data>
+</edge>
+<edge source="Potato" target="Kufri Sinduri">
+  <data key="d6">8.0</data>
+  <data key="d7">Kufri Sinduri is a specific variety of potato that showcases its diversity and agricultural relevance in cultivation.".</data>
+  <data key="d8">agricultural diversity,variety specialization</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Kufri Chandramukhi">
+  <data key="d6">8.0</data>
+  <data key="d7">Kufri Chandramukhi represents another variety of potato, highlighting the multiple options available for cultivation.".</data>
+  <data key="d8">agricultural diversity,variety specialization</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Kufri Khasi-Garo">
+  <data key="d6">7.0</data>
+  <data key="d7">Kufri Khasi-Garo is a variety of potato suited for hilly terrains, indicating the adaptability of potatoes to different growing conditions.".</data>
+  <data key="d8">agricultural adaptability,variety specialization</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Kufri Shectorn">
+  <data key="d6">7.0</data>
+  <data key="d7">Kufri Shectorn is a frost-resistant variety demonstrating the importance of weather resilience in potato cultivation.".</data>
+  <data key="d8">climatic resilience,variety specialization</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Kufri Jyoti">
+  <data key="d6">9.0</data>
+  <data key="d7">Kufri Jyoti is noted for its field resistance to late blight, showcasing the resistance traits sought in potato varieties.".</data>
+  <data key="d8">disease resistance,variety specialization</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Manures and Fertilizer">
+  <data key="d6">10.0</data>
+  <data key="d7">The application of Manures and Fertilizer is critical for the successful growth of potatoes, indicating the relationship between nutrient management and crop yield.".</data>
+  <data key="d8">agricultural practices,nutrient management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Pests and Diseases">
+  <data key="d6">10.0</data>
+  <data key="d7">Awareness and management of Pests and Diseases are vital for maintaining potato crop health and productivity.".</data>
+  <data key="d8">crop health,pest management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Solanaceae">
+  <data key="d6">9.0</data>
+  <data key="d7">Potato belongs to the Solanaceae family, indicating its botanical classification and relationship to other plants.".</data>
+  <data key="d8">botanical classification,family relationship</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Fertile Soil">
+  <data key="d6">10.0</data>
+  <data key="d7">Potatoes require fertile soil for optimal growth, highlighting the dependency of the crop on soil quality.".</data>
+  <data key="d8">agricultural practice,soil quality</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Seed Rate">
+  <data key="d6">9.0</data>
+  <data key="d7">The seed rate is crucial for planting potatoes, ensuring proper spacing and establishment of the crop.".</data>
+  <data key="d8">agricultural practice,planting strategy</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Planting Distance">
+  <data key="d6">9.0</data>
+  <data key="d7">Proper planting distance is vital for potato growth, ensuring adequate space for each plant.".</data>
+  <data key="d8">agricultural practice,planting strategy</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Irrigation Schedule">
+  <data key="d6">10.0</data>
+  <data key="d7">The irrigation schedule is essential for maintaining the moisture needed for potato growth throughout the cultivation period.".</data>
+  <data key="d8">agricultural practice,water management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Cold Storage">
+  <data key="d6">10.0</data>
+  <data key="d7">Cold storage methods are applied to harvested potatoes to prolong their shelf life and prevent spoilage.".</data>
+  <data key="d8">agricultural practice,post-harvest management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Cut Worms">
+  <data key="d6">9.0</data>
+  <data key="d7">Cut worms are pests that specifically target potato crops, necessitating active management to preserve plant health.".</data>
+  <data key="d8">agricultural challenge,pest control</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Caterpillars">
+  <data key="d6">9.0</data>
+  <data key="d7">Caterpillars pose a threat to potato crops and need to be controlled to ensure the health of the plants.".</data>
+  <data key="d8">agricultural challenge,pest control</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Aphids">
+  <data key="d6">9.0</data>
+  <data key="d7">Aphids can damage potatoes, requiring treatment to protect the crops from infestation.".</data>
+  <data key="d8">agricultural challenge,pest control</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Jassids">
+  <data key="d6">9.0</data>
+  <data key="d7">Jassids affect potato crops, highlighting the ongoing challenges of pest management.".</data>
+  <data key="d8">agricultural challenge,pest control</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Early Blight">
+  <data key="d6">9.0</data>
+  <data key="d7">Early Blight is a disease that impacts potato health, requiring specific fungicide applications.".</data>
+  <data key="d8">agricultural challenge,disease management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Late Blight">
+  <data key="d6">10.0</data>
+  <data key="d7">Late Blight significantly threatens potato crops, which necessitates careful monitoring and treatment.".</data>
+  <data key="d8">agricultural challenge,disease management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Scab">
+  <data key="d6">9.0</data>
+  <data key="d7">Scab is a disease that potatoes can contract, making effective management critical for crop success.".</data>
+  <data key="d8">agricultural challenge,disease management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Potato" target="Virus Disease">
+  <data key="d6">10.0</data>
+  <data key="d7">Virus disease poses a potential risk to potato crops, necessitating preventative measures.".</data>
+  <data key="d8">agricultural challenge,disease management</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Kufri Jyoti" target="Fertile Soil">
+  <data key="d6">8.0</data>
+  <data key="d7">Kufri Jyoti thrives well in fertile soil, emphasizing the importance of soil conditions for this variety.".</data>
+  <data key="d8">agricultural practice,soil adaptation</data>
+  <data key="d9">chunk-91f936f2fc804c54ef938cd5f9dffb23</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Late Blight" target="Dithane Z-78">
+  <data key="d6">7.0</data>
+  <data key="d7">Dithane Z-78 is also recommended for managing late blight.</data>
+  <data key="d8">disease management,fungicide</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Late Blight" target="Zineb">
+  <data key="d6">7.0</data>
+  <data key="d7">Zineb is a fungicide effective in managing the late blight disease.</data>
+  <data key="d8">disease management,fungicide</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Scab" target="Agallol-6">
+  <data key="d6">7.0</data>
+  <data key="d7">Agallol-6 is used for disinfecting tubers to manage the scab disease.</data>
+  <data key="d8">disease management,fungicide</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Scab" target="Mercuric Fungicides">
+  <data key="d6">7.0</data>
+  <data key="d7">Mercuric fungicides are applied to disinfect tubers affected by scab.</data>
+  <data key="d8">disease management,fungicide</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Virus Disease" target="Metasystox">
+  <data key="d6">7.0</data>
+  <data key="d7">Metasystox is used to manage virus diseases in plants.</data>
+  <data key="d8">chemical treatment,disease management</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Virus Disease" target="Timet">
+  <data key="d6">7.0</data>
+  <data key="d7">Timet is applied in the furrow before planting to manage virus diseases.</data>
+  <data key="d8">chemical treatment,disease management</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Virus Disease" target="Furadon">
+  <data key="d6">7.0</data>
+  <data key="d7">Furadon is another chemical treatment used to manage virus diseases.</data>
+  <data key="d8">chemical treatment,disease management</data>
+  <data key="d9">chunk-4ff6d4e30cfbcca720e61084e33e1a84</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213005</data>
+</edge>
+<edge source="Dithane Z-78" target="Leaf-rust">
+  <data key="d6">9.0</data>
+  <data key="d7">Dithane Z-78 is another fungicide used for controlling leaf-rust in sunflowers.</data>
+  <data key="d8">agricultural practice,disease control</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Dithane Z-78" target="Alternaria leaf-spot">
+  <data key="d6">9.0</data>
+  <data key="d7">Dithane Z-78 is utilized to control Alternaria leaf-spot affecting sunflowers.</data>
+  <data key="d8">agricultural practice,disease control</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="rice" target="southern India">
+  <data key="d6">9.0</data>
+  <data key="d7">Rice is believed to have originated in southern India, underpinning its agricultural importance in the region.</data>
+  <data key="d8">agriculture,origin</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="rice" target="China">
+  <data key="d6">8.0</data>
+  <data key="d7">Rice spread from India to China, highlighting the geographical expansion of rice cultivation.</data>
+  <data key="d8">agricultural history,expansion</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="rice" target="Korea">
+  <data key="d6">7.0</data>
+  <data key="d7">Korea's historical adoption of rice around 2000 B.C. is connected to its development of agriculture.</data>
+  <data key="d8">adoption,agricultural history</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="rice" target="Philippines">
+  <data key="d6">6.0</data>
+  <data key="d7">The Philippines' incorporation of rice around 2000 B.C. reflects its significance in Filipino agriculture.</data>
+  <data key="d8">adoption,agricultural impact</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="rice" target="Indonesia">
+  <data key="d6">6.0</data>
+  <data key="d7">Indonesia's adoption of rice signifies the spread of this crop across various cultures and regions.</data>
+  <data key="d8">agriculture,cultural adoption</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="southern India" target="rice cultivation practices">
+  <data key="d6">8.0</data>
+  <data key="d7">The rice cultivation practices discussed are primarily based in southern India, emphasizing local agricultural techniques.</data>
+  <data key="d8">agriculture,local practices</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="rice cultivation practices" target="Fertile Riverine Alluvial Soil">
+  <data key="d6">8.0</data>
+  <data key="d7">Fertile Riverine Alluvial Soil is highlighted as the best soil type for rice cultivation, directly impacting the effectiveness of rice farming practices.</data>
+  <data key="d8">agricultural success,soil quality</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="rice cultivation practices" target="Clayey Loam Soil">
+  <data key="d6">8.0</data>
+  <data key="d7">Clayey Loam Soil is recommended for rice cultivation due to its high water retention, which affects planting success.</data>
+  <data key="d8">crop yield,soil suitability</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="Kanthi Banko" target="Nutritional value of Rice">
+  <data key="d6">5.0</data>
+  <data key="d7">Kanthi Banko, a medicinal rice, contributes to discussions on rice's health benefits.</data>
+  <data key="d8">health benefits,medicinal properties</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="Nutritional value of Rice" target="Dańwar">
+  <data key="d6">5.0</data>
+  <data key="d7">Danwar's medicinal applications relate back to the nutritional aspects of rice, reinforcing its health benefits.</data>
+  <data key="d8">agricultural significance,health benefits</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="uplands" target="Dry or Semi-Dry Upland Cultivation">
+  <data key="d6">7.0</data>
+  <data key="d7">Dry or Semi-Dry Upland Cultivation methods are specifically suited for growing rice in upland areas, emphasizing the connection between soil type and cultivation method.</data>
+  <data key="d8">agricultural practice,cultivation method</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="low lands" target="Wet or Lowland Cultivation">
+  <data key="d6">7.0</data>
+  <data key="d7">Wet or Lowland Cultivation methods correspond to low land soil conditions, making them suitable for rice farming in waterlogged areas.</data>
+  <data key="d8">agricultural condition,cultivation method</data>
+  <data key="d9">chunk-70c5d89a16d65b263ef2f3704cd7ca8a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213052</data>
+</edge>
+<edge source="Soybean" target="Kharif Season">
+  <data key="d6">8.0</data>
+  <data key="d7">Soybean can be cultivated during the Kharif season, which is characterized by specific sowing times influenced by monsoon rains.</data>
+  <data key="d8">agricultural practice,seasonal cultivation</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Spring Season">
+  <data key="d6">8.0</data>
+  <data key="d7">Soybean can also be cultivated during the Spring season, where specific sowing times are observed.</data>
+  <data key="d8">agricultural practice,seasonal cultivation</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Monetta">
+  <data key="d6">9.0</data>
+  <data key="d7">Monetta is one of the varieties of soybean recommended for cultivation.</data>
+  <data key="d8">agricultural practice,crop variety</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="M.A.C.S.-13">
+  <data key="d6">9.0</data>
+  <data key="d7">M.A.C.S.-13 is another variety of soybean available for cultivation."+"crop variety, agricultural practice</data>
+  <data key="d8">9</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Rhizobium culture">
+  <data key="d6">7.0</data>
+  <data key="d7">Rhizobium culture is applied as a seed treatment to enhance nitrogen fixation for soybean development.</data>
+  <data key="d8">agricultural technique,seed treatment</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Fertilizers">
+  <data key="d6">9.0</data>
+  <data key="d7">Fertilizers are essential for soybean cultivation to meet nitrogen and nutrient requirements.</data>
+  <data key="d8">agricultural input,crop nutrition</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Toke 25">
+  <data key="d6">8.0</data>
+  <data key="d7">Toke 25 is used for weed control in soybean cultivation before sowing seeds.</data>
+  <data key="d8">agricultural practice,weed control</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Harvesting Process">
+  <data key="d6">8.0</data>
+  <data key="d7">Soybean is harvested using specific methods including threshing machines for grain separation.</data>
+  <data key="d8">agricultural practice,crop harvesting</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Crop Rotation">
+  <data key="d6">8.0</data>
+  <data key="d7">Crop Rotation practices include rotating soybean with other crops to maintain soil health.</data>
+  <data key="d8">agricultural strategy,soil management</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Soybean" target="Harvesting Guidelines">
+  <data key="d6">8.0</data>
+  <data key="d7">Harvesting Guidelines provide essential criteria for determining when soybean is ready for harvest.</data>
+  <data key="d8">agricultural techniques,harvest timing</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Kharif Season" target="Water Requirements">
+  <data key="d6">8.0</data>
+  <data key="d7">"Water Requirements specify that Kharif oilseed crops typically do not require irrigation as they depend on rain.</data>
+  <data key="d8">irrigation practices,seasonal requirements</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Fertilizers" target="Sugarcane">
+  <data key="d6">8.0</data>
+  <data key="d7">Fertilizer application is essential to enhance the yields of sugarcane, showcasing agricultural best practices.</data>
+  <data key="d8">crop management,yield optimization</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Climate Requirements" target="Temperature Range">
+  <data key="d6">9.0</data>
+  <data key="d7">Temperature Range is a part of the Climate Requirements necessary for soybean cultivation.</data>
+  <data key="d8">agricultural requirements,climatic factors</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Climate Requirements" target="Rainfall Requirements">
+  <data key="d6">9.0</data>
+  <data key="d7">Rainfall Requirements are included under the Climate Requirements necessary for proper soybean growth.</data>
+  <data key="d8">agricultural requirements,climatic factors</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Climate Requirements" target="Soil Type Requirements">
+  <data key="d6">9.0</data>
+  <data key="d7">Soil Type Requirements are part of the overall Climate Requirements that affect soybean cultivation.</data>
+  <data key="d8">agricultural requirements,climatic factors</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Climate Requirements" target="Sugarcane">
+  <data key="d6">8.0</data>
+  <data key="d7">The growth of sugarcane is heavily influenced by climate conditions, highlighting the relationship between agriculture and weather patterns.</data>
+  <data key="d8">agricultural dependency,climate</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Seed Treatment" target="Seed Rate for Grain">
+  <data key="d6">8.0</data>
+  <data key="d7">Seed Treatment improves the effectiveness of Seed Rate for Grain by enhancing nitrogen fixation for soybean growth.</data>
+  <data key="d8">agricultural practice,seed improvement</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Spacing" target="Seed Rate for Fodder">
+  <data key="d6">8.0</data>
+  <data key="d7">Spacing guidelines determine how to effectively apply Seed Rate for Fodder in soybean cultivation.</data>
+  <data key="d8">agricultural practice,planting strategy</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213094</data>
+</edge>
+<edge source="Sugarcane" target="Soil Requirements">
+  <data key="d6">9.0</data>
+  <data key="d7">The type of soil affects sugarcane cultivation, emphasizing the importance of soil quality in agriculture.</data>
+  <data key="d8">agricultural conditions,soil dependency</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Sugarcane Varieties">
+  <data key="d6">7.0</data>
+  <data key="d7">Different varietals of sugarcane are cultivated to maximize productivity and adaptability to regional conditions.</data>
+  <data key="d8">agricultural practices,crop diversity</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Irrigation Needs">
+  <data key="d6">9.0</data>
+  <data key="d7">Irrigation is vital at various growth stages of sugarcane, indicating water management’s role in successful cultivation.</data>
+  <data key="d8">crop health,water management</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Sugar Industry">
+  <data key="d6">10.0</data>
+  <data key="d7">The sugar industry relies on sugarcane as its primary raw material, linking production and industrial processing.</data>
+  <data key="d8">industry reliance,production</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Termites">
+  <data key="d6">8.0</data>
+  <data key="d7">Termites pose a threat to sugarcane by attacking and damaging planted setts and roots.</data>
+  <data key="d8">agricultural pests,crop damage</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Early Shoot-Borer">
+  <data key="d6">9.0</data>
+  <data key="d7">The early shoot-borer causes significant harm to sugarcane, leading to dead-hearts during its active months.</data>
+  <data key="d8">crop loss,pest impact</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Internode Borer">
+  <data key="d6">8.0</data>
+  <data key="d7">Internode borer adversely affects sugarcane health by attacking the growing point, causing dead-hearts.</data>
+  <data key="d8">crop damage,pest impact</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Red Rot">
+  <data key="d6">10.0</data>
+  <data key="d7">Red rot affects the sugarcane crop, reducing yield and quality due to its damaging effects on the plant.</data>
+  <data key="d8">crop disease,yield reduction</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Whip Smut">
+  <data key="d6">9.0</data>
+  <data key="d7">Whip smut is another disease affecting the sugarcane, causing growth abnormalities and potentially lower harvest quality.</data>
+  <data key="d8">crop disease,growth issue</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Grassy Shoot Disease">
+  <data key="d6">8.0</data>
+  <data key="d7">Grassy shoot disease severely affects the sugarcane crop, leading to stunting and poor growth characteristics.</data>
+  <data key="d8">crop health,pest association</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Cooperative">
+  <data key="d6">9.0</data>
+  <data key="d7">The Cooperative oversees the timing and operation of sugarcane harvest to optimize efficiency in processing.</data>
+  <data key="d8">agricultural organization,harvest management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="5% Aldrin">
+  <data key="d6">7.0</data>
+  <data key="d7">5% Aldrin is used in the soil to protect sugarcane crops from termite attacks.</data>
+  <data key="d8">crop protection,pest control</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane" target="Aldrin E.C.">
+  <data key="d6">8.0</data>
+  <data key="d7">Aldrin E.C. is applied to standing sugarcane to manage termite infestations efficiently.</data>
+  <data key="d8">crop protection,pest management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Farmers" target="Sugar Industry">
+  <data key="d6">8.0</data>
+  <data key="d7">Farmers involved in sugarcane cultivation are integral to the sugar industry, contributing to its economic activities.</data>
+  <data key="d8">economic contribution,labor</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Farmers" target="Sugarcane Harvest">
+  <data key="d6">9.0</data>
+  <data key="d7">Farmers are directly involved in the Sugarcane Harvest, executing the cutting orders from the Sugarcane Cooperative.</data>
+  <data key="d8">agricultural labor,participation</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Farmers" target="Sugarcane Cooperative">
+  <data key="d6">7.0</data>
+  <data key="d7">The Sugarcane Cooperative provides guidelines and orders to Farmers concerning the timing and process of harvest.</data>
+  <data key="d8">guidance,management</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Farmers" target="Cutting Orders">
+  <data key="d6">9.0</data>
+  <data key="d7">Cutting Orders are crucial for guiding Farmers on when and how to harvest the sugarcane based on agreements with the factory authorities.</data>
+  <data key="d8">agricultural protocol,guidance</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213144</data>
+</edge>
+<edge source="Sugar Industry" target="11 Crore People">
+  <data key="d6">10.0</data>
+  <data key="d7">The sugar industry supports over 11 crore people, indicating its socioeconomic impact on the population.</data>
+  <data key="d8">community support,economic impact</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugar Industry" target="4.4 Lakh Acres">
+  <data key="d6">9.0</data>
+  <data key="d7">The sugar industry is reliant on the vast area of 4.4 lakh acres dedicated to sugarcane cultivation.</data>
+  <data key="d8">agricultural economy,resource dependence</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane Varieties" target="SOIL REQUIREMENTS">
+  <data key="d6">9.0</data>
+  <data key="d7">Different sugarcane varieties thrive in varying soil conditions, linking variety to agronomic practices.</data>
+  <data key="d8">crop performance,soil quality</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane Varieties" target="Irrigation Needs">
+  <data key="d6">8.0</data>
+  <data key="d7">Different sugarcane varieties have specific irrigation requirements for optimal growth, showcasing the relationship between variety selection and agronomy.</data>
+  <data key="d8">agricultural practices,crop management</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Red Rot" target="Benomyl">
+  <data key="d6">7.0</data>
+  <data key="d7">Benomyl is utilized to treat sugarcane setts to prevent the onset of diseases like red rot.</data>
+  <data key="d8">disease management,pest control</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Red Rot" target="CO-7706">
+  <data key="d6">8.0</data>
+  <data key="d7">CO-7706 is a variety of sugarcane that is resistant to red rot disease, making it suitable for planting.</data>
+  <data key="d8">crop choice,disease resistance</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Whip Smut" target="CO-86032">
+  <data key="d6">8.0</data>
+  <data key="d7">CO-86032 is a sugarcane variety that provides resistance against whip smut disease, which impacts cane health.</data>
+  <data key="d8">crop management,disease resistance</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Whip Smut" target="CO-8021">
+  <data key="d6">8.0</data>
+  <data key="d7">CO-8021 is used in sugarcane planting to mitigate the effects of whip smut disease.</data>
+  <data key="d8">crop resilience,disease resistance</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Whip Smut" target="CO-6608">
+  <data key="d6">8.0</data>
+  <data key="d7">CO-6608 is a resistant variety protecting sugarcane from whip smut disease infections.</data>
+  <data key="d8">crop management,disease prevention</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Whip Smut" target="CO-6609">
+  <data key="d6">8.0</data>
+  <data key="d7">CO-6609 variety is recognized for its resistance to whip smut, aiding in sugarcane health.</data>
+  <data key="d8">agricultural practices,disease resistance</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Whip Smut" target="CO-62101">
+  <data key="d6">9.0</data>
+  <data key="d7">CO-62101 is cultivated to prevent whip smut's impact on sugarcane crops.</data>
+  <data key="d8">crop selection,disease management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Whip Smut" target="CO-1342">
+  <data key="d6">8.0</data>
+  <data key="d7">CO-1342 sugarcane variety is recommended for its ability to resist whip smut disease.</data>
+  <data key="d8">crop resilience,disease management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Whip Smut" target="CO-12582">
+  <data key="d6">8.0</data>
+  <data key="d7">CO-12582 variety offers resistance to whip smut, making it preferable for cultivation.</data>
+  <data key="d8">crop choice,disease management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213144</data>
+</edge>
+<edge source="Grassy Shoot Disease" target="CO-7219">
+  <data key="d6">7.0</data>
+  <data key="d7">CO-7219 variety is used in sugarcane to combat grassy shoot disease effectively.</data>
+  <data key="d8">crop cultivation,disease resistance</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Grassy Shoot Disease" target="CO-740">
+  <data key="d6">7.0</data>
+  <data key="d7">CO-740 is selected for sugarcane planting to manage grassy shoot disease risks.</data>
+  <data key="d8">agricultural practices,disease resistance</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Grassy Shoot Disease" target="CO-8011">
+  <data key="d6">7.0</data>
+  <data key="d7">CO-8011 provides a resistant option to support sugarcane health against grassy shoot disease.</data>
+  <data key="d8">crop selection,disease management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane Harvest" target="Sugarcane Cooperative">
+  <data key="d6">8.0</data>
+  <data key="d7">The Sugarcane Cooperative organizes and manages the Sugarcane Harvest by issuing cutting orders to farmers.</data>
+  <data key="d8">cooperative organization,harvest management</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane Harvest" target="Harvesting Unit">
+  <data key="d6">10.0</data>
+  <data key="d7">The Harvesting Unit carries out the physical processes related to the Sugarcane Harvest, utilizing machinery to efficiently cut and collect sugarcane.</data>
+  <data key="d8">machinery use,operation</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213143</data>
+</edge>
+<edge source="Sugarcane Harvest" target="Sugarcane Yield">
+  <data key="d6">6.0</data>
+  <data key="d7">Sugarcane Yield is assessed during the Sugarcane Harvest to evaluate the productivity of the crops.</data>
+  <data key="d8">agricultural assessment,productivity measurement</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213144</data>
+</edge>
+<edge source="Sugarcane Harvest" target="Mill">
+  <data key="d6">8.0</data>
+  <data key="d7">The Mill is utilized during the Sugarcane Harvest for processing the sugarcane that is harvested by farmers.</data>
+  <data key="d8">processing,production</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213144</data>
+</edge>
+<edge source="Harvesting Unit" target="Transfer Stations">
+  <data key="d6">7.0</data>
+  <data key="d7">The Harvesting Unit operates in conjunction with Transfer Stations to facilitate the movement and delivery of harvested sugarcane.</data>
+  <data key="d8">logistics,transportation</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213144</data>
+</edge>
+<edge source="Harvesting Unit" target="Electricity">
+  <data key="d6">6.0</data>
+  <data key="d7">Electricity likely powers the machinery used by the Harvesting Unit to cut and transport sugarcane during the harvesting process.</data>
+  <data key="d8">energy source,machinery operation</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213144</data>
+</edge>
+<edge source="Sunflower" target="E.C.68413">
+  <data key="d6">8.0</data>
+  <data key="d7">Sunflower is grown from various varieties including E.C.68413 which are suitable for cultivation.</data>
+  <data key="d8">agriculture,variety cultivation</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213190</data>
+</edge>
+<edge source="Sunflower" target="E.C. 68414">
+  <data key="d6">8.0</data>
+  <data key="d7">Sunflower cultivation includes the use of the variety E.C. 68414 (Peredovick).</data>
+  <data key="d8">agriculture,variety cultivation</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213190</data>
+</edge>
+<edge source="Sunflower" target="E.C. 68415">
+  <data key="d6">8.0</data>
+  <data key="d7">The planting of sunflowers includes E.C. 68415 (Armavirskij), optimizing agricultural output.</data>
+  <data key="d8">agriculture,variety cultivation</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213190</data>
+</edge>
+<edge source="Sunflower" target="E.C. 69874">
+  <data key="d6">8.0</data>
+  <data key="d7">E.C. 69874 (Armaverts) is among the varieties cultivated for sunflower production.</data>
+  <data key="d8">agriculture,variety cultivation</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213190</data>
+</edge>
+<edge source="Sunflower" target="E.C. 101495">
+  <data key="d6">8.0</data>
+  <data key="d7">The recently introduced short-duration variety E.C. 101495 (Cernianka) is part of sunflower cultivation efforts.</data>
+  <data key="d8">agriculture,variety cultivation</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213190</data>
+</edge>
+<edge source="Sunflower" target="Grasshopper">
+  <data key="d6">9.0</data>
+  <data key="d7">Grasshopper is identified as a pest impacting sunflower crops, presenting a management challenge.</data>
+  <data key="d8">crop protection,pest management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213190</data>
+</edge>
+<edge source="Sunflower" target="Capitulum-borer">
+  <data key="d6">9.0</data>
+  <data key="d7">The Capitulum-borer is noted as a pest for sunflowers, affecting crop health.</data>
+  <data key="d8">crop protection,pest management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Leaf-rust">
+  <data key="d6">9.0</data>
+  <data key="d7">Leaf-rust is a disease that affects sunflower growth, necessitating specific controls.</data>
+  <data key="d8">crop health,disease management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Alternaria leaf-spot">
+  <data key="d6">9.0</data>
+  <data key="d7">Alternaria leaf-spot is another disease affecting sunflowers, requiring management strategies.</data>
+  <data key="d8">crop health,disease management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Root-rot">
+  <data key="d6">9.0</data>
+  <data key="d7">Root-rot is a disease affecting sunflowers, with control measures specified.</data>
+  <data key="d8">crop health,disease management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="NPK Fertilizers">
+  <data key="d6">8.0</data>
+  <data key="d7">NPK fertilizers are recommended for optimal growth in sunflower cultivation based on soil conditions.</data>
+  <data key="d8">crop management,fertilization</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="90-100 Days">
+  <data key="d6">8.0</data>
+  <data key="d7">Sunflowers mature in 90-100 days, specifying the growth cycle of the crop.</data>
+  <data key="d8">agricultural practice,growth cycle</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Gunny Bags">
+  <data key="d6">7.0</data>
+  <data key="d7">Gunny bags are used for the storage of sunflower seeds after harvest, indicating post-harvest practice.</data>
+  <data key="d8">post-harvest management,storage</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Vanaspati">
+  <data key="d6">7.0</data>
+  <data key="d7">Sunflower oil is processed to produce Vanaspati, illustrating an application of sunflower cultivation.</data>
+  <data key="d8">culinary use,product application</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Soaps and Cosmetics">
+  <data key="d6">6.0</data>
+  <data key="d7">Sunflower oil is utilized in the manufacturing of soaps and cosmetics, highlighting its diverse applications.</data>
+  <data key="d8">personal care,product application</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Cattle Feed">
+  <data key="d6">9.0</data>
+  <data key="d7">The sunflower cake serves as a high-protein cattle feed, demonstrating its agricultural by-product value.</data>
+  <data key="d8">agricultural utilization,livestock feed</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Sunflower" target="Poultry Feed">
+  <data key="d6">9.0</data>
+  <data key="d7">Sunflower cake is also used as poultry feed, benefiting animal nutrition in farming.</data>
+  <data key="d8">agricultural utilization,livestock feed</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="E.C.68413" target="Brassical">
+  <data key="d6">8.0</data>
+  <data key="d7">Brassical is used for seed treatment for the E.C.68413 variety to prevent fungal diseases.</data>
+  <data key="d8">crop protection,seed treatment</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Grasshopper" target="Control">
+  <data key="d6">8.0</data>
+  <data key="d7">Management strategies for the Grasshopper pest include specific sprays to mitigate damage.</data>
+  <data key="d8">agricultural practice,pest management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+<edge source="Capitulum-borer" target="Control">
+  <data key="d6">8.0</data>
+  <data key="d7">Control methods for the Capitulum-borer are outlined to protect sunflower crops.</data>
+  <data key="d8">agricultural practice,pest management</data>
+  <data key="d9">chunk-e968055d4514b326b9a06d03b268f864</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756213191</data>
+</edge>
+</graph></graphml>

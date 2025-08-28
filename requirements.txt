@@ -1,0 +1,13 @@
+lightrag-hku
+ipykernel
+google-genai
+sentence-transformers
+fastapi[standard]
+aiofiles
+ollama
+openai
+PyJWT
+networkx
+matplotlib
+pyvis
+textract

@@ -1,0 +1,806 @@
+{
+  "doc-d88d3b85569a37e5bc8715df6cba2f08": {
+    "relation_pairs": [
+      [
+        "Difolatan",
+        "Onion"
+      ],
+      [
+        "Onion Storage Structure",
+        "Relative Humidity"
+      ],
+      [
+        "Onion",
+        "Thiram"
+      ],
+      [
+        "Onion",
+        "Spain"
+      ],
+      [
+        "Allium cepa",
+        "Onion"
+      ],
+      [
+        "Bavistin",
+        "Onion Storage Structure"
+      ],
+      [
+        "Captan",
+        "Onion"
+      ],
+      [
+        "Amaryllidaceae",
+        "Onion"
+      ],
+      [
+        "Haryana",
+        "Onion"
+      ],
+      [
+        "Japan",
+        "Onion"
+      ],
+      [
+        "Onion",
+        "Storage Conditions"
+      ],
+      [
+        "Malathion",
+        "Onion"
+      ],
+      [
+        "Irrigation",
+        "Onion"
+      ],
+      [
+        "Onion",
+        "Punjab"
+      ],
+      [
+        "Netherlands",
+        "Onion"
+      ],
+      [
+        "North America",
+        "Onion"
+      ],
+      [
+        "Maharashtra",
+        "Onion"
+      ],
+      [
+        "Onion",
+        "Thimet 10G"
+      ],
+      [
+        "Fertility Management",
+        "Onion"
+      ],
+      [
+        "Biltox",
+        "Onion"
+      ],
+      [
+        "Neuocron",
+        "Onion Storage Structure"
+      ],
+      [
+        "India",
+        "Onion"
+      ],
+      [
+        "Dithane M-45",
+        "Onion"
+      ],
+      [
+        "Endosulfan",
+        "Onion"
+      ],
+      [
+        "Nuvacron",
+        "Onion"
+      ],
+      [
+        "Onion Sprouting",
+        "Temperature Management"
+      ],
+      [
+        "F.Y.M.",
+        "Onion"
+      ],
+      [
+        "Canada",
+        "Onion"
+      ],
+      [
+        "Onion Storage Structure",
+        "Temperature Management"
+      ],
+      [
+        "Gujarat",
+        "Onion"
+      ],
+      [
+        "Onion Sprouting",
+        "Relative Humidity"
+      ]
+    ],
+    "count": 31,
+    "create_time": 1756212900,
+    "update_time": 1756212900,
+    "_id": "doc-d88d3b85569a37e5bc8715df6cba2f08"
+  },
+  "doc-4b336f40635188212b1344f0e6cb2295": {
+    "relation_pairs": [
+      [
+        "Pea Crop",
+        "Water Management Requirements"
+      ],
+      [
+        "Pea Crop",
+        "Wilting Disease"
+      ],
+      [
+        "Fungal Diseases",
+        "Pea Crop"
+      ],
+      [
+        "Depth of Fertilizers",
+        "Fertilizer Recommendations"
+      ],
+      [
+        "Hans",
+        "P.G.3"
+      ],
+      [
+        "Bonneville",
+        "Pea Crop"
+      ],
+      [
+        "N.P.29",
+        "Pea Crop"
+      ],
+      [
+        "Early Badger",
+        "Pea Crop"
+      ],
+      [
+        "Fungal Diseases",
+        "Rachana"
+      ],
+      [
+        "Pant P.5",
+        "Type-163"
+      ],
+      [
+        "Jawahar Pea-4",
+        "T.19"
+      ],
+      [
+        "B. Field Peas",
+        "Type-163"
+      ],
+      [
+        "Chemical Control Methods",
+        "Pea Crop"
+      ],
+      [
+        "D.M.R.11",
+        "E.C.33866"
+      ],
+      [
+        "Swarn Rekha",
+        "V.L.I"
+      ],
+      [
+        "Fertilizer Recommendations",
+        "Pea Crop"
+      ],
+      [
+        "Fungal Diseases",
+        "Hans"
+      ],
+      [
+        "Jawahar Pea-4",
+        "Pea Crop"
+      ],
+      [
+        "Asauji",
+        "N.P.29"
+      ],
+      [
+        "Harbhajan",
+        "Kinnauri"
+      ],
+      [
+        "Pea Crop",
+        "Sandy Clayey Loam"
+      ],
+      [
+        "BHC Dust",
+        "Pea Crop"
+      ],
+      [
+        "Arkel",
+        "Pea Crop"
+      ],
+      [
+        "T 56",
+        "T.19"
+      ],
+      [
+        "Rachana",
+        "Type-163"
+      ],
+      [
+        "Hans",
+        "Harbhajan"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1756212945,
+    "update_time": 1756212945,
+    "_id": "doc-4b336f40635188212b1344f0e6cb2295"
+  },
+  "doc-91f936f2fc804c54ef938cd5f9dffb23": {
+    "relation_pairs": [
+      [
+        "Cold Storage",
+        "Potato"
+      ],
+      [
+        "Fertile Soil",
+        "Potato"
+      ],
+      [
+        "Caterpillars",
+        "Potato"
+      ],
+      [
+        "Dithane Z-78",
+        "Late Blight"
+      ],
+      [
+        "Kufri Chandramukhi",
+        "Potato"
+      ],
+      [
+        "Dithane M-45",
+        "Late Blight"
+      ],
+      [
+        "Jassids",
+        "Potato"
+      ],
+      [
+        "Irrigation Schedule",
+        "Potato"
+      ],
+      [
+        "Irrigation",
+        "Potato"
+      ],
+      [
+        "Agallol-6",
+        "Scab"
+      ],
+      [
+        "Potato",
+        "Solanaceae"
+      ],
+      [
+        "Late Blight",
+        "Zineb"
+      ],
+      [
+        "Kufri Shectorn",
+        "Potato"
+      ],
+      [
+        "Potato",
+        "Virus Disease"
+      ],
+      [
+        "Timet",
+        "Virus Disease"
+      ],
+      [
+        "Metasystox",
+        "Virus Disease"
+      ],
+      [
+        "Potato",
+        "Scab"
+      ],
+      [
+        "Difolatan",
+        "Late Blight"
+      ],
+      [
+        "Mercuric Fungicides",
+        "Scab"
+      ],
+      [
+        "Pests and Diseases",
+        "Potato"
+      ],
+      [
+        "Late Blight",
+        "Potato"
+      ],
+      [
+        "Kufri Jyoti",
+        "Potato"
+      ],
+      [
+        "Aphids",
+        "Potato"
+      ],
+      [
+        "Fertile Soil",
+        "Kufri Jyoti"
+      ],
+      [
+        "Kufri Sinduri",
+        "Potato"
+      ],
+      [
+        "Early Blight",
+        "Potato"
+      ],
+      [
+        "Planting Distance",
+        "Potato"
+      ],
+      [
+        "Kufri Khasi-Garo",
+        "Potato"
+      ],
+      [
+        "Furadon",
+        "Virus Disease"
+      ],
+      [
+        "Manures and Fertilizer",
+        "Potato"
+      ],
+      [
+        "Cut Worms",
+        "Potato"
+      ],
+      [
+        "Potato",
+        "Seed Rate"
+      ]
+    ],
+    "count": 32,
+    "create_time": 1756213005,
+    "update_time": 1756213005,
+    "_id": "doc-91f936f2fc804c54ef938cd5f9dffb23"
+  },
+  "doc-70c5d89a16d65b263ef2f3704cd7ca8a": {
+    "relation_pairs": [
+      [
+        "Dańwar",
+        "Nutritional value of Rice"
+      ],
+      [
+        "Korea",
+        "rice"
+      ],
+      [
+        "Dry or Semi-Dry Upland Cultivation",
+        "uplands"
+      ],
+      [
+        "rice",
+        "southern India"
+      ],
+      [
+        "Wet or Lowland Cultivation",
+        "low lands"
+      ],
+      [
+        "Japan",
+        "rice"
+      ],
+      [
+        "Indonesia",
+        "rice"
+      ],
+      [
+        "China",
+        "rice"
+      ],
+      [
+        "Fertile Riverine Alluvial Soil",
+        "rice cultivation practices"
+      ],
+      [
+        "Philippines",
+        "rice"
+      ],
+      [
+        "rice cultivation practices",
+        "southern India"
+      ],
+      [
+        "Clayey Loam Soil",
+        "rice cultivation practices"
+      ],
+      [
+        "Kanthi Banko",
+        "Nutritional value of Rice"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1756213052,
+    "update_time": 1756213052,
+    "_id": "doc-70c5d89a16d65b263ef2f3704cd7ca8a"
+  },
+  "doc-5470ec64d5d6e0a733bc41912ea3c5b5": {
+    "relation_pairs": [
+      [
+        "Rhizobium culture",
+        "Soybean"
+      ],
+      [
+        "M.A.C.S.-13",
+        "Soybean"
+      ],
+      [
+        "Harvesting Guidelines",
+        "Soybean"
+      ],
+      [
+        "Seed Rate for Grain",
+        "Seed Treatment"
+      ],
+      [
+        "Soybean",
+        "Spring Season"
+      ],
+      [
+        "Kharif Season",
+        "Soybean"
+      ],
+      [
+        "Climate Requirements",
+        "Soil Type Requirements"
+      ],
+      [
+        "Soybean",
+        "Toke 25"
+      ],
+      [
+        "Kharif Season",
+        "Water Requirements"
+      ],
+      [
+        "Crop Rotation",
+        "Soybean"
+      ],
+      [
+        "Fertilizers",
+        "Soybean"
+      ],
+      [
+        "Monetta",
+        "Soybean"
+      ],
+      [
+        "Climate Requirements",
+        "Temperature Range"
+      ],
+      [
+        "Seed Rate for Fodder",
+        "Spacing"
+      ],
+      [
+        "Climate Requirements",
+        "Rainfall Requirements"
+      ],
+      [
+        "Harvesting Process",
+        "Soybean"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1756213094,
+    "update_time": 1756213094,
+    "_id": "doc-5470ec64d5d6e0a733bc41912ea3c5b5"
+  },
+  "doc-d21a78c384a2e57b0ec12b38d360f0c7": {
+    "relation_pairs": [
+      [
+        "Early Shoot-Borer",
+        "Sugarcane"
+      ],
+      [
+        "Farmers",
+        "Sugar Industry"
+      ],
+      [
+        "Fertilizers",
+        "Sugarcane"
+      ],
+      [
+        "CO-6608",
+        "Whip Smut"
+      ],
+      [
+        "Sugarcane",
+        "Whip Smut"
+      ],
+      [
+        "Sugar Industry",
+        "Sugarcane"
+      ],
+      [
+        "Cutting Orders",
+        "Farmers"
+      ],
+      [
+        "11 Crore People",
+        "Sugar Industry"
+      ],
+      [
+        "Electricity",
+        "Harvesting Unit"
+      ],
+      [
+        "Red Rot",
+        "Sugarcane"
+      ],
+      [
+        "Climate Requirements",
+        "Sugarcane"
+      ],
+      [
+        "CO-62101",
+        "Whip Smut"
+      ],
+      [
+        "Internode Borer",
+        "Sugarcane"
+      ],
+      [
+        "Irrigation Needs",
+        "Sugarcane Varieties"
+      ],
+      [
+        "Endosulfan",
+        "Grassy Shoot Disease"
+      ],
+      [
+        "Sugarcane Cooperative",
+        "Sugarcane Harvest"
+      ],
+      [
+        "Soil Requirements",
+        "Sugarcane"
+      ],
+      [
+        "Harvesting Unit",
+        "Sugarcane Harvest"
+      ],
+      [
+        "Mill",
+        "Sugarcane Harvest"
+      ],
+      [
+        "CO-8021",
+        "Whip Smut"
+      ],
+      [
+        "SOIL REQUIREMENTS",
+        "Sugarcane Varieties"
+      ],
+      [
+        "5% Aldrin",
+        "Sugarcane"
+      ],
+      [
+        "CO-7219",
+        "Grassy Shoot Disease"
+      ],
+      [
+        "Grassy Shoot Disease",
+        "Sugarcane"
+      ],
+      [
+        "Sugarcane Harvest",
+        "Sugarcane Yield"
+      ],
+      [
+        "Aldrin E.C.",
+        "Sugarcane"
+      ],
+      [
+        "CO-7706",
+        "Red Rot"
+      ],
+      [
+        "Harvesting Unit",
+        "Transfer Stations"
+      ],
+      [
+        "CO-6609",
+        "Whip Smut"
+      ],
+      [
+        "CO-86032",
+        "Whip Smut"
+      ],
+      [
+        "Cooperative",
+        "Sugarcane"
+      ],
+      [
+        "CO-740",
+        "Grassy Shoot Disease"
+      ],
+      [
+        "Irrigation Needs",
+        "Sugarcane"
+      ],
+      [
+        "CO-1342",
+        "Whip Smut"
+      ],
+      [
+        "Sugarcane",
+        "Termites"
+      ],
+      [
+        "4.4 Lakh Acres",
+        "Sugar Industry"
+      ],
+      [
+        "India",
+        "Sugarcane"
+      ],
+      [
+        "CO-12582",
+        "Whip Smut"
+      ],
+      [
+        "CO-8011",
+        "Grassy Shoot Disease"
+      ],
+      [
+        "Sugarcane",
+        "Sugarcane Varieties"
+      ],
+      [
+        "Farmers",
+        "Sugarcane Harvest"
+      ],
+      [
+        "Benomyl",
+        "Red Rot"
+      ],
+      [
+        "Farmers",
+        "Sugarcane Cooperative"
+      ]
+    ],
+    "count": 43,
+    "create_time": 1756213144,
+    "update_time": 1756213144,
+    "_id": "doc-d21a78c384a2e57b0ec12b38d360f0c7"
+  },
+  "doc-e968055d4514b326b9a06d03b268f864": {
+    "relation_pairs": [
+      [
+        "Alternaria leaf-spot",
+        "Dithane Z-78"
+      ],
+      [
+        "E.C. 68415",
+        "Sunflower"
+      ],
+      [
+        "E.C. 101495",
+        "Sunflower"
+      ],
+      [
+        "Dithane Z-78",
+        "Leaf-rust"
+      ],
+      [
+        "Alternaria leaf-spot",
+        "Dithane M-45"
+      ],
+      [
+        "Capitulum-borer",
+        "Control"
+      ],
+      [
+        "Captan",
+        "E.C.68413"
+      ],
+      [
+        "Dithane M-45",
+        "Leaf-rust"
+      ],
+      [
+        "Sunflower",
+        "Vanaspati"
+      ],
+      [
+        "NPK Fertilizers",
+        "Sunflower"
+      ],
+      [
+        "Capitulum-borer",
+        "Sunflower"
+      ],
+      [
+        "Poultry Feed",
+        "Sunflower"
+      ],
+      [
+        "90-100 Days",
+        "Sunflower"
+      ],
+      [
+        "Root-rot",
+        "Sunflower"
+      ],
+      [
+        "Gunny Bags",
+        "Sunflower"
+      ],
+      [
+        "Irrigation",
+        "Sunflower"
+      ],
+      [
+        "Brassical",
+        "E.C.68413"
+      ],
+      [
+        "E.C. 68414",
+        "Sunflower"
+      ],
+      [
+        "E.C. 69874",
+        "Sunflower"
+      ],
+      [
+        "E.C.68413",
+        "Sunflower"
+      ],
+      [
+        "Control",
+        "Grasshopper"
+      ],
+      [
+        "Leaf-rust",
+        "Sunflower"
+      ],
+      [
+        "Soaps and Cosmetics",
+        "Sunflower"
+      ],
+      [
+        "Cattle Feed",
+        "Sunflower"
+      ],
+      [
+        "Alternaria leaf-spot",
+        "Sunflower"
+      ],
+      [
+        "Grasshopper",
+        "Sunflower"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1756213191,
+    "update_time": 1756213191,
+    "_id": "doc-e968055d4514b326b9a06d03b268f864"
+  }
+}

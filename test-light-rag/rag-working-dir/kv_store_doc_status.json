@@ -1,0 +1,126 @@
+{
+  "doc-d88d3b85569a37e5bc8715df6cba2f08": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-0c8be1e4136ee203cdd7fc02b5c0ff51",
+      "chunk-59b92a8fa20243f570ca2d6386b3edc1"
+    ],
+    "content_summary": "Introduction:\nOnion belongs to the family Amaryllidaceae with botanical name Allium cepa. Areawise India ranks second while production wise it ranks third among the total onion production in the world. In the world total area under cultivation of oni...",
+    "content_length": 5553,
+    "created_at": "2025-08-26T12:54:04.612791+00:00",
+    "updated_at": "2025-08-26T12:55:00.554053+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250826_182404_50551da9",
+    "metadata": {
+      "processing_start_time": 1756212844,
+      "processing_end_time": 1756212900
+    }
+  },
+  "doc-4b336f40635188212b1344f0e6cb2295": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-d83d2667e4a3e6bb1fd6daee5e022180",
+      "chunk-6d0e396867ed268c0f273139ac0e96cf"
+    ],
+    "content_summary": "Climatic requirements:\n\nThe crop prefers about 22 to 25 0 C at the germination stage and moderately lower temperature of 15 to 18 0C during flowering and fruiting period but frosty weather is fatal for the crop. High humidity associated with cloudy w...",
+    "content_length": 6778,
+    "created_at": "2025-08-26T12:55:00.616669+00:00",
+    "updated_at": "2025-08-26T12:55:45.421986+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250826_182500_66928bf6",
+    "metadata": {
+      "processing_start_time": 1756212900,
+      "processing_end_time": 1756212945
+    }
+  },
+  "doc-91f936f2fc804c54ef938cd5f9dffb23": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-91f936f2fc804c54ef938cd5f9dffb23",
+      "chunk-4ff6d4e30cfbcca720e61084e33e1a84"
+    ],
+    "content_summary": "Introduction:\nThe Potato, a native of South America occupies a largest area any single vegetable in the world. It has a special value as food. The consumption of potato per head is very low in India as compared to that of Western Countries. Potato be...",
+    "content_length": 4943,
+    "created_at": "2025-08-26T12:55:45.468938+00:00",
+    "updated_at": "2025-08-26T12:56:45.910961+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250826_182545_28a3b79e",
+    "metadata": {
+      "processing_start_time": 1756212945,
+      "processing_end_time": 1756213005
+    }
+  },
+  "doc-70c5d89a16d65b263ef2f3704cd7ca8a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-70c5d89a16d65b263ef2f3704cd7ca8a"
+    ],
+    "content_summary": "It is believed that the rice plant may have originated in southern India, then spread to the north of the country and then onwards to China. It then arrived in Korea, the Philippines (about 2000 B. C.) and then Japan and Indonesia (about 1000 B. C.)....",
+    "content_length": 3471,
+    "created_at": "2025-08-26T12:56:45.974662+00:00",
+    "updated_at": "2025-08-26T12:57:32.874483+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250826_182645_6d5a7b51",
+    "metadata": {
+      "processing_start_time": 1756213005,
+      "processing_end_time": 1756213052
+    }
+  },
+  "doc-5470ec64d5d6e0a733bc41912ea3c5b5": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5470ec64d5d6e0a733bc41912ea3c5b5"
+    ],
+    "content_summary": "Ecological Requirements:\nClimate-\nSoyabean needs about 15 to 320C temperature for germination but for rapid growth the crop needs higher temperature. The crop requires about 60-65 cm annual rainfall drought at flowering or just before flowering resul...",
+    "content_length": 2912,
+    "created_at": "2025-08-26T12:57:32.931929+00:00",
+    "updated_at": "2025-08-26T12:58:14.698085+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250826_182732_51296df2",
+    "metadata": {
+      "processing_start_time": 1756213052,
+      "processing_end_time": 1756213094
+    }
+  },
+  "doc-d21a78c384a2e57b0ec12b38d360f0c7": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-36cd4a194beff3d5aa7efeecb6495664",
+      "chunk-252cf8bb716d1836b2636ff6ef75ea1a",
+      "chunk-87f38531174a31a19b52515bdc39f46a"
+    ],
+    "content_summary": "Introduction\nSugarcane (Saccharum officinarum L.) is the main sources of sugar in India and holds a prominent position as a cash crop. India is the world’s largest consumer and the second largest producer of sugar, topped only by Brazil. Nearly 2.8 l...",
+    "content_length": 11133,
+    "created_at": "2025-08-26T12:58:14.802070+00:00",
+    "updated_at": "2025-08-26T12:59:04.200207+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250826_182814_95f05740",
+    "metadata": {
+      "processing_start_time": 1756213094,
+      "processing_end_time": 1756213144
+    }
+  },
+  "doc-e968055d4514b326b9a06d03b268f864": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e968055d4514b326b9a06d03b268f864"
+    ],
+    "content_summary": "Introduction\nSunflower (Helianthus annuus L). is mainly grown for its oil. The oil is used for culinary purpose in the preparation of vanaspati and in the manufacture of soaps and cosmetics. Its cake is rich in protein and is used as a cattle and pou...",
+    "content_length": 3076,
+    "created_at": "2025-08-26T12:59:04.309194+00:00",
+    "updated_at": "2025-08-26T12:59:51.423152+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250826_182904_50610e35",
+    "metadata": {
+      "processing_start_time": 1756213144,
+      "processing_end_time": 1756213191
+    }
+  }
+}
