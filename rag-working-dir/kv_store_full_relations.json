@@ -1,0 +1,594 @@
+{
+  "doc-73bdf83eb2b3cb38cfb4479f7cc91534": {
+    "relation_pairs": [
+      [
+        "Abbas Parva",
+        "Ronder"
+      ],
+      [
+        "Mrs. Merrilow",
+        "Sherlock Holmes"
+      ],
+      [
+        "Leonardo",
+        "The Husband"
+      ],
+      [
+        "Eugenia's Husband",
+        "Leonardo"
+      ],
+      [
+        "Mr. Holmes",
+        "Mrs. Merrilow"
+      ],
+      [
+        "The Circus",
+        "The Husband"
+      ],
+      [
+        "Holmes",
+        "The Woman"
+      ],
+      [
+        "Mrs. Ronder",
+        "Ronder"
+      ],
+      [
+        "Leonardo",
+        "Mrs. Ronder"
+      ],
+      [
+        "Mrs. Ronder",
+        "Sherlock Holmes"
+      ],
+      [
+        "The Photograph",
+        "The Woman"
+      ],
+      [
+        "Abbas Parva",
+        "Berkshire"
+      ],
+      [
+        "Eugenia Ronder",
+        "Leonardo"
+      ],
+      [
+        "Chalk-Pit",
+        "Five-Clawed Club"
+      ],
+      [
+        "Prussic Acid",
+        "The Woman"
+      ],
+      [
+        "Berkshire Constabulary",
+        "Lion"
+      ],
+      [
+        "Leonardo",
+        "Mr. Holmes"
+      ],
+      [
+        "Eugenia's Husband",
+        "The Beast"
+      ],
+      [
+        "Lion",
+        "Mrs. Ronder"
+      ],
+      [
+        "Leonardo",
+        "Margate"
+      ],
+      [
+        "Berkshire Constabulary",
+        "Edmunds"
+      ],
+      [
+        "The Husband",
+        "The Woman"
+      ],
+      [
+        "Dr. Watson",
+        "Sherlock Holmes"
+      ],
+      [
+        "Ronder",
+        "lion exhibition"
+      ],
+      [
+        "Mrs. Merrilow",
+        "Mrs. Ronder"
+      ],
+      [
+        "Eugenia Ronder",
+        "The Show"
+      ],
+      [
+        "Eugenia Ronder",
+        "The Beast"
+      ],
+      [
+        "Ronder",
+        "Sanger"
+      ],
+      [
+        "Allahabad",
+        "Berkshire Constabulary"
+      ],
+      [
+        "Chalk-Pit",
+        "Deep Green Pool"
+      ],
+      [
+        "Eugenia Ronder",
+        "Eugenia's Husband"
+      ],
+      [
+        "Hansom",
+        "Mrs. Merrilow"
+      ],
+      [
+        "Lion",
+        "Ronder"
+      ],
+      [
+        "Eugenia Ronder",
+        "Little Jimmy Griggs"
+      ],
+      [
+        "Griggs",
+        "Mrs. Ronder"
+      ],
+      [
+        "Leonardo",
+        "The Club"
+      ],
+      [
+        "Chalk-Pit",
+        "The Woman"
+      ],
+      [
+        "Edmunds",
+        "The Woman"
+      ],
+      [
+        "Lighthouse",
+        "Sherlock Holmes"
+      ],
+      [
+        "Ronder",
+        "Sahara King"
+      ],
+      [
+        "Circus Employees",
+        "Mrs. Ronder"
+      ],
+      [
+        "Ronder",
+        "Sherlock Holmes"
+      ],
+      [
+        "Ronder",
+        "Wombwell"
+      ],
+      [
+        "Mr. Holmes",
+        "The Woman"
+      ],
+      [
+        "Sherlock Holmes",
+        "Trained Cormorant"
+      ],
+      [
+        "Leonardo",
+        "The Woman"
+      ]
+    ],
+    "count": 46,
+    "create_time": 1756566831,
+    "update_time": 1756566831,
+    "_id": "doc-73bdf83eb2b3cb38cfb4479f7cc91534"
+  },
+  "doc-a609f1a50f5c08677ec164bd8fab740b": {
+    "relation_pairs": [
+      [
+        "Groundnut Aphid",
+        "Monocroptophos"
+      ],
+      [
+        "Artificial Fibre",
+        "Groundnut"
+      ],
+      [
+        "Groundnut",
+        "Root Rot"
+      ],
+      [
+        "Groundnut",
+        "White Grubs"
+      ],
+      [
+        "Root Rot",
+        "Thiram"
+      ],
+      [
+        "Groundnut",
+        "Lasso"
+      ],
+      [
+        "Groundnut",
+        "Weeds"
+      ],
+      [
+        "Andhra Pradesh",
+        "Groundnut"
+      ],
+      [
+        "Dimethoate",
+        "Groundnut Aphid"
+      ],
+      [
+        "Ceresan",
+        "Root Rot"
+      ],
+      [
+        "Groundnut",
+        "Orissa"
+      ],
+      [
+        "Agrosan GN",
+        "Root Rot"
+      ],
+      [
+        "Brestan",
+        "Tikka Disease"
+      ],
+      [
+        "Maneb",
+        "Tikka Disease"
+      ],
+      [
+        "Groundnut",
+        "Tamil Nadu"
+      ],
+      [
+        "Tikka Disease",
+        "Ziram"
+      ],
+      [
+        "Groundnut",
+        "Groundnut Aphid"
+      ],
+      [
+        "Harvesting",
+        "Spreading types"
+      ],
+      [
+        "Groundnut",
+        "Rhizobium"
+      ],
+      [
+        "Groundnut",
+        "May-June"
+      ],
+      [
+        "Groundnut",
+        "Tok-E-25"
+      ],
+      [
+        "Bordeaux Mixture",
+        "Tikka Disease"
+      ],
+      [
+        "Carbaryl",
+        "Pest Leaf-miner"
+      ],
+      [
+        "Groundnut",
+        "Heptachlor"
+      ],
+      [
+        "Bunchy Top",
+        "Groundnut"
+      ],
+      [
+        "Groundnut",
+        "Tikka Disease"
+      ],
+      [
+        "Groundnut Aphid",
+        "Phosphamidon"
+      ],
+      [
+        "Groundnut",
+        "Karnataka"
+      ],
+      [
+        "Groundnut",
+        "Pest Leaf-miner"
+      ],
+      [
+        "Groundnut",
+        "Irrigated Crop"
+      ],
+      [
+        "Groundnut",
+        "White Grub"
+      ],
+      [
+        "Harvesting",
+        "Semi-spreading varieties"
+      ],
+      [
+        "Groundnut",
+        "Gujarat"
+      ],
+      [
+        "Groundnut",
+        "Kharif Crop"
+      ],
+      [
+        "Groundnut",
+        "Harvesting"
+      ],
+      [
+        "Groundnut Aphid",
+        "Methyl-demeton"
+      ],
+      [
+        "Tikka Disease",
+        "Zineb"
+      ],
+      [
+        "Chlordane",
+        "Groundnut"
+      ]
+    ],
+    "count": 38,
+    "create_time": 1756567115,
+    "update_time": 1756567115,
+    "_id": "doc-a609f1a50f5c08677ec164bd8fab740b"
+  },
+  "doc-5470ec64d5d6e0a733bc41912ea3c5b5": {
+    "relation_pairs": [
+      [
+        "Soyabean",
+        "Spring Sowing"
+      ],
+      [
+        "Soyabean",
+        "Weeding"
+      ],
+      [
+        "Sandy Loam",
+        "Soyabean"
+      ],
+      [
+        "Fertilizers",
+        "Soyabean"
+      ],
+      [
+        "Herbicides",
+        "Soyabean"
+      ],
+      [
+        "Nitrogen Requirement",
+        "Soyabean"
+      ],
+      [
+        "Rhizobium Culture",
+        "Soyabean"
+      ],
+      [
+        "Sign of Maturity",
+        "Soyabean"
+      ],
+      [
+        "Kharif Season",
+        "Soyabean"
+      ],
+      [
+        "Hoeing",
+        "Soyabean"
+      ],
+      [
+        "Average Yield",
+        "Soyabean"
+      ],
+      [
+        "Cultivation Practices",
+        "Soyabean"
+      ],
+      [
+        "Harvesting",
+        "Soyabean"
+      ],
+      [
+        "Soyabean",
+        "Water Requirement"
+      ],
+      [
+        "Crop Rotation and Inter Cropping",
+        "Soyabean"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1756567141,
+    "update_time": 1756567141,
+    "_id": "doc-5470ec64d5d6e0a733bc41912ea3c5b5"
+  },
+  "doc-d21a78c384a2e57b0ec12b38d360f0c7": {
+    "relation_pairs": [
+      [
+        "Maturity Status",
+        "Sugarcane"
+      ],
+      [
+        "Farmers",
+        "Sugarcane"
+      ],
+      [
+        "Control Measures",
+        "Red Rot"
+      ],
+      [
+        "Harvesting Unit",
+        "Sugarcane"
+      ],
+      [
+        "Sowing Seasons",
+        "Sugarcane"
+      ],
+      [
+        "Farmers",
+        "Sugar Industry"
+      ],
+      [
+        "Crop Rotation",
+        "Sugarcane"
+      ],
+      [
+        "Brazil",
+        "India"
+      ],
+      [
+        "Intercultural Operations",
+        "Sugarcane"
+      ],
+      [
+        "Grassy Shoot Disease",
+        "Sugarcane"
+      ],
+      [
+        "Farmers",
+        "Sugarcane Harvest"
+      ],
+      [
+        "Climate Requirements",
+        "Sugarcane"
+      ],
+      [
+        "Hoeings and Weedings",
+        "Sugarcane"
+      ],
+      [
+        "India",
+        "Sugarcane"
+      ],
+      [
+        "Fertilizers",
+        "Sugarcane"
+      ],
+      [
+        "Final Earthing-Up",
+        "Sugarcane"
+      ],
+      [
+        "Small Mill Test (SMT)",
+        "Sugarcane"
+      ],
+      [
+        "Early Shoot-Borer",
+        "Sugarcane"
+      ],
+      [
+        "Soil Requirements",
+        "Sugarcane"
+      ],
+      [
+        "Harvesting",
+        "Sugarcane"
+      ],
+      [
+        "Sugarcane",
+        "Whip Smut"
+      ],
+      [
+        "Grinding Capacity",
+        "Harvesting Unit"
+      ],
+      [
+        "Bamboos",
+        "Cane Tying"
+      ],
+      [
+        "Red Rot",
+        "Sugarcane"
+      ],
+      [
+        "Laboratory",
+        "Sugarcane Harvest"
+      ],
+      [
+        "Semi-Trailers",
+        "Sugarcane Harvest"
+      ],
+      [
+        "Internode Borer",
+        "Sugarcane"
+      ],
+      [
+        "Sugarcane",
+        "Water Logging"
+      ],
+      [
+        "Cultivation Area",
+        "Sugarcane"
+      ],
+      [
+        "Moisture Control",
+        "Sugarcane"
+      ],
+      [
+        "Cooperative",
+        "Farmers"
+      ],
+      [
+        "Irrigation",
+        "Sugarcane"
+      ],
+      [
+        "Sugarcane",
+        "Sugarcane Productivity"
+      ],
+      [
+        "Hand Sugar Refractometer",
+        "Sugarcane"
+      ],
+      [
+        "Cooperative",
+        "Grinding Capacity"
+      ],
+      [
+        "Seed Treatment",
+        "Sugarcane"
+      ],
+      [
+        "Sugarcane",
+        "Termites"
+      ],
+      [
+        "Intercultural Operations Techniques",
+        "Sugarcane"
+      ],
+      [
+        "Cane Tying",
+        "Sugarcane"
+      ],
+      [
+        "Control Measures",
+        "Termites"
+      ],
+      [
+        "Annual Production",
+        "Sugar Industry"
+      ]
+    ],
+    "count": 41,
+    "create_time": 1756567173,
+    "update_time": 1756567173,
+    "_id": "doc-d21a78c384a2e57b0ec12b38d360f0c7"
+  }
+}

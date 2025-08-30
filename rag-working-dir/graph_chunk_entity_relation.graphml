@@ -1,0 +1,1582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d10" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d9" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d8" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d7" for="edge" attr.name="description" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Groundnut">
+  <data key="d0">Groundnut</data>
+  <data key="d1">category</data>
+  <data key="d2">Groundnut (Arachis hypogaea L.) is an important oilseed crop known for its oil content of 44-50%, used in various industries including soap making, cosmetics, and as feed for livestock.&lt;SEP&gt;Groundnut is a crop that requires specific pest and disease management strategies for optimal growth and yield.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb&lt;SEP&gt;chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Gujarat">
+  <data key="d0">Gujarat</data>
+  <data key="d1">geo</data>
+  <data key="d2">Gujarat is one of the four states in India where groundnut production is concentrated.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Andhra Pradesh">
+  <data key="d0">Andhra Pradesh</data>
+  <data key="d1">geo</data>
+  <data key="d2">Andhra Pradesh is one of the four states in India where groundnut production is concentrated.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Tamil Nadu">
+  <data key="d0">Tamil Nadu</data>
+  <data key="d1">geo</data>
+  <data key="d2">Tamil Nadu is one of the four states in India where groundnut production is concentrated.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Karnataka">
+  <data key="d0">Karnataka</data>
+  <data key="d1">geo</data>
+  <data key="d2">Karnataka is one of the four states in India where groundnut production is concentrated.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Orissa">
+  <data key="d0">Orissa</data>
+  <data key="d1">geo</data>
+  <data key="d2">Orissa is mentioned as a state with irrigated areas suitable for groundnut cultivation.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Heptachlor">
+  <data key="d0">Heptachlor</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Heptachlor is a chemical used against white grubs in groundnut cultivation.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Chlordane">
+  <data key="d0">Chlordane</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Chlordane is a chemical used against white grubs in groundnut cultivation.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Rhizobium">
+  <data key="d0">Rhizobium</data>
+  <data key="d1">category</data>
+  <data key="d2">Rhizobium is a culture beneficial for increasing nodulation and nitrogen fixation in groundnut plants.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Lasso">
+  <data key="d0">Lasso</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Lasso is a type of weedicide used for effective weed control in groundnut cultivation.&lt;SEP&gt;Lasso is a weedicide used for controlling weeds in groundnut cultivation.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb&lt;SEP&gt;chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Tok-E-25">
+  <data key="d0">Tok-E-25</data>
+  <data key="d1">chemical</data>
+  <data key="d2">Tok-E-25 is a weedicide that can be mixed with water for pre-emergence spraying to control weeds in soil.&lt;SEP&gt;Tok-E-25 is a weedicide used for controlling weeds in groundnut cultivation.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb&lt;SEP&gt;chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Kharif Crop">
+  <data key="d0">Kharif Crop</data>
+  <data key="d1">category</data>
+  <data key="d2">Kharif crop refers to crops grown during the Indian monsoon season, typically sown in May-June and requiring substantive rainfall. Groundnut is primarily raised as a kharif crop.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="May-June">
+  <data key="d0">May-June</data>
+  <data key="d1">event</data>
+  <data key="d2">May-June is the time period during which groundnut is typically sown as a kharif crop and is tied to the onset of monsoon rains.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Irrigated Crop">
+  <data key="d0">Irrigated Crop</data>
+  <data key="d1">category</data>
+  <data key="d2">Irrigated crop refers to crops that are watered through irrigation systems rather than relying solely on rainfall. Groundnut is grown as an irrigated crop in limited extents during specific months.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Artificial Fibre">
+  <data key="d0">Artificial Fibre</data>
+  <data key="d1">category</data>
+  <data key="d2">Artificial fibre is a material that can be made from by-products of groundnut, specifically the cake left after oil extraction.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Weeds">
+  <data key="d0">Weeds</data>
+  <data key="d1">category</data>
+  <data key="d2">Weeds refer to unwanted plants that grow in the fields and compete with groundnut for resources, thus requiring management such as hand-weeding or chemical weed control.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="White Grubs">
+  <data key="d0">White Grubs</data>
+  <data key="d1">category</data>
+  <data key="d2">White grubs are pests affecting groundnut cultivation, which damage the crops by feeding on the roots and stems.</data>
+  <data key="d3">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Pest Leaf-miner">
+  <data key="d0">Pest Leaf-miner</data>
+  <data key="d1">category</data>
+  <data key="d2">Pest Leaf-miner is a pest affecting plants by mining and folding leaves, active during July to December.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Groundnut Aphid">
+  <data key="d0">Groundnut Aphid</data>
+  <data key="d1">category</data>
+  <data key="d2">Groundnut aphid is a pest that acts as a vector for virus diseases affecting groundnuts.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="White Grub">
+  <data key="d0">White Grub</data>
+  <data key="d1">category</data>
+  <data key="d2">White grub is a pest that emerges after monsoon and feeds on plant roots, leading to plant death.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Root Rot">
+  <data key="d0">Root Rot</data>
+  <data key="d1">category</data>
+  <data key="d2">Root rot is a disease characterized by reddish-brown discoloration and leads to plant collapse.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Tikka Disease">
+  <data key="d0">Tikka Disease</data>
+  <data key="d1">category</data>
+  <data key="d2">Tikka disease or leaf spot is characterized by dark spots on leaves, leading to premature leaf shedding.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Bunchy Top">
+  <data key="d0">Bunchy Top</data>
+  <data key="d1">category</data>
+  <data key="d2">Bunchy top is a disease that reduces leaf and internode sizes and can cause partial sterility in plants.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Agrosan GN">
+  <data key="d0">Agrosan GN</data>
+  <data key="d1">category</data>
+  <data key="d2">Agrosan GN is a treatment used for seeds to manage diseases in crops.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Ceresan">
+  <data key="d0">Ceresan</data>
+  <data key="d1">category</data>
+  <data key="d2">Ceresan is a seed treatment used to control various plant diseases.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Thiram">
+  <data key="d0">Thiram</data>
+  <data key="d1">category</data>
+  <data key="d2">Thiram is another agent used for treating seeds against diseases.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Brestan">
+  <data key="d0">Brestan</data>
+  <data key="d1">category</data>
+  <data key="d2">Brestan is a fungicide used for controlling Tikka disease in crops.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Bordeaux Mixture">
+  <data key="d0">Bordeaux Mixture</data>
+  <data key="d1">category</data>
+  <data key="d2">Bordeaux mixture is a combination used for spraying to manage leaf spot diseases.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Ziram">
+  <data key="d0">Ziram</data>
+  <data key="d1">category</data>
+  <data key="d2">Ziram is a fungicide applied to control disease in crops, particularly effective against Tikka disease.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Zineb">
+  <data key="d0">Zineb</data>
+  <data key="d1">category</data>
+  <data key="d2">Zineb is a chemical used to help control diseases in plants like Tikka disease.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Maneb">
+  <data key="d0">Maneb</data>
+  <data key="d1">category</data>
+  <data key="d2">Maneb is a fungicide utilized in the management of crop diseases.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Harvesting">
+  <data key="d0">Harvesting</data>
+  <data key="d1">event</data>
+  <data key="d2">Harvesting involves techniques for collecting groundnut crops after maturity indicators are present.&lt;SEP&gt;Harvesting is the process of gathering mature soyabean crops using specific methods and indicators of readiness.&lt;SEP&gt;Harvesting refers to the process of collecting mature sugarcane, which is usually coordinated over a 150-day period starting in November.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a&lt;SEP&gt;chunk-11e53372d1d8c141cfd659787b9eeee4&lt;SEP&gt;chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Semi-spreading varieties">
+  <data key="d0">Semi-spreading varieties</data>
+  <data key="d1">category</data>
+  <data key="d2">Semi-spreading varieties of groundnuts are harvested by hand pulling when soil conditions are ideal.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Spreading types">
+  <data key="d0">Spreading types</data>
+  <data key="d1">category</data>
+  <data key="d2">Spreading types of groundnuts are harvested using digging or ploughing methods.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Carbaryl">
+  <data key="d0">Carbaryl</data>
+  <data key="d1">category</data>
+  <data key="d2">Carbaryl is a pesticide used to control pests such as the Leaf-miner in crops.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Dimethoate">
+  <data key="d0">Dimethoate</data>
+  <data key="d1">category</data>
+  <data key="d2">Dimethoate is a pesticide utilized to control pests like the Groundnut aphid to protect crops.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Phosphamidon">
+  <data key="d0">Phosphamidon</data>
+  <data key="d1">category</data>
+  <data key="d2">Phosphamidon is a chemical used to manage pest infestations in agricultural settings.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Monocroptophos">
+  <data key="d0">Monocroptophos</data>
+  <data key="d1">category</data>
+  <data key="d2">Monocroptophos is an insecticide suggested for controlling the Groundnut aphid.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Methyl-demeton">
+  <data key="d0">Methyl-demeton</data>
+  <data key="d1">category</data>
+  <data key="d2">Methyl-demeton is used in agriculture to manage pest populations such as the Groundnut aphid.</data>
+  <data key="d3">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567114</data>
+</node>
+<node id="Soyabean">
+  <data key="d0">Soyabean</data>
+  <data key="d1">category</data>
+  <data key="d2">Soyabean is a crop characterized by specific ecological requirements and agricultural practices for optimal growth and yield.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Kharif Season">
+  <data key="d0">Kharif Season</data>
+  <data key="d1">event</data>
+  <data key="d2">Kharif season refers to one of the cropping seasons suitable for sowing soyabean, typically from late June to early July.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Spring Sowing">
+  <data key="d0">Spring Sowing</data>
+  <data key="d1">event</data>
+  <data key="d2">Spring sowing is another cropping time for soyabean, occurring between February 15 and March 15.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Monetta">
+  <data key="d0">Monetta</data>
+  <data key="d1">variety</data>
+  <data key="d2">Monetta is one of the varieties of soyabean mentioned that can be cultivated.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="M.A.C.S.-13">
+  <data key="d0">M.A.C.S.-13</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S.-13 is a variety of soyabean suitable for cultivation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="M.A.C.S.-57">
+  <data key="d0">M.A.C.S.-57</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S.-57 is another variety of soyabean specified for planting.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="M.A.C.S.-58">
+  <data key="d0">M.A.C.S.-58</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S.-58 is one of the varieties of soyabean that can be grown.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="M.A.C.S-124">
+  <data key="d0">M.A.C.S-124</data>
+  <data key="d1">variety</data>
+  <data key="d2">M.A.C.S-124 is a designated variety of soyabean for cultivation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="P.K. 472">
+  <data key="d0">P.K. 472</data>
+  <data key="d1">variety</data>
+  <data key="d2">P.K. 472 is a soyabean variety recommended for planting.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="J.S.-80-21">
+  <data key="d0">J.S.-80-21</data>
+  <data key="d1">variety</data>
+  <data key="d2">J.S.-80-21 is a variety of soyabean that can be cultivated.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="J.S. 335">
+  <data key="d0">J.S. 335</data>
+  <data key="d1">variety</data>
+  <data key="d2">J.S. 335 is specified as a variety of soyabean for cultivation purposes.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Rhizobium Culture">
+  <data key="d0">Rhizobium Culture</data>
+  <data key="d1">category</data>
+  <data key="d2">Rhizobium culture is a treatment used for soyabean seeds to enhance nitrogen fixation.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Fertilizers">
+  <data key="d0">Fertilizers</data>
+  <data key="d1">category</data>
+  <data key="d2">Fertilizers are substances applied to soyabean crops to ensure adequate nutrition, particularly nitrogen and phosphorus.&lt;SEP&gt;Fertilizers play a crucial role in sugarcane cultivation, with specific nutrient recommendations based on the planting season and growing conditions.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664&lt;SEP&gt;chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Water Requirement">
+  <data key="d0">Water Requirement</data>
+  <data key="d1">category</data>
+  <data key="d2">Water requirement outlines the irrigation needs for soyabean, especially critical during specific growth stages.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Cultivation Practices">
+  <data key="d0">Cultivation Practices</data>
+  <data key="d1">category</data>
+  <data key="d2">Cultivation practices encompass the techniques and methods involved in planting and caring for the soyabean crop.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Crop Rotation and Inter Cropping">
+  <data key="d0">Crop Rotation and Inter Cropping</data>
+  <data key="d1">category</data>
+  <data key="d2">Crop rotation and inter cropping involve planting soyabean with other crops like maize and cotton to enhance growth.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Sandy Loam">
+  <data key="d0">Sandy Loam</data>
+  <data key="d1">category</data>
+  <data key="d2">Sandy loam is described as the best soil type for soyabean cultivation, having good organic matter content.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Weeding">
+  <data key="d0">Weeding</data>
+  <data key="d1">category</data>
+  <data key="d2">Weeding is a recommended practice for maintaining the crop, specifically mentioned for the soyabean cultivation process.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Hoeing">
+  <data key="d0">Hoeing</data>
+  <data key="d1">category</data>
+  <data key="d2">Hoeing is mentioned as a method used in conjunction with weeding to contribute to the care of soyabean crops.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Herbicides">
+  <data key="d0">Herbicides</data>
+  <data key="d1">category</data>
+  <data key="d2">Herbicides, such as Toke 25, are utilized for controlling weeds in soyabean cultivation before sowing.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Nitrogen Requirement">
+  <data key="d0">Nitrogen Requirement</data>
+  <data key="d1">category</data>
+  <data key="d2">Nitrogen requirement refers to the significant need for nitrogen for healthy soyabean growth, exceeding what is fixed by its roots alone.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Sign of Maturity">
+  <data key="d0">Sign of Maturity</data>
+  <data key="d1">category</data>
+  <data key="d2">Signs of maturity for soyabean include the dropping of leaves, yellowing of leaves, and a moisture content of 15% in seeds.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Average Yield">
+  <data key="d0">Average Yield</data>
+  <data key="d1">category</data>
+  <data key="d2">Average yield for soyabean is mentioned as 25g/ha, providing insight into the productivity of this crop.</data>
+  <data key="d3">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567141</data>
+</node>
+<node id="Sugarcane">
+  <data key="d0">Sugarcane</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane is a crop requiring specific agricultural practices such as irrigation, hoeing, and protection from pests and diseases for optimal yield.&lt;SEP&gt;Sugarcane is the main source of sugar in India, recognized as a vital cash crop cultivated over extensive areas, dependent on various climatic and soil conditions.&lt;SEP&gt;Sugarcane is the primary crop being harvested, analyzed, and monitored for maturity, yield, and processing quality.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a&lt;SEP&gt;chunk-36cd4a194beff3d5aa7efeecb6495664&lt;SEP&gt;chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="India">
+  <data key="d0">India</data>
+  <data key="d1">geo</data>
+  <data key="d2">India is the world's largest consumer and the second largest producer of sugar, significant for its extensive sugarcane cultivation involving millions of farmers.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Brazil">
+  <data key="d0">Brazil</data>
+  <data key="d1">geo</data>
+  <data key="d2">Brazil is the largest producer of sugar globally, surpassing India in production volume.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Farmers">
+  <data key="d0">Farmers</data>
+  <data key="d1">person</data>
+  <data key="d2">Approximately 2.8 lakh farmers cultivate sugarcane in India, relying significantly on the sugar industry for their livelihoods.&lt;SEP&gt;Farmers are the individuals who supply sugarcane after receiving cutting orders from the factory authorities, participating actively in the harvesting process.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a&lt;SEP&gt;chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Sugar Industry">
+  <data key="d0">Sugar Industry</data>
+  <data key="d1">organization</data>
+  <data key="d2">The sugar industry in India supports over 11 crore people, encompassing both direct and indirect dependence on sugarcane cultivation and processing.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Climate Requirements">
+  <data key="d0">Climate Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane requires warm humid conditions with specific temperature and rainfall to thrive, avoiding extremes that can hinder growth.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Soil Requirements">
+  <data key="d0">Soil Requirements</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane prefers medium heavy soils but can adapt to lighter or heavier soils given proper irrigation and drainage facilitating growth.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Varieties of Sugarcane">
+  <data key="d0">Varieties of Sugarcane</data>
+  <data key="d1">category</data>
+  <data key="d2">Various varieties of sugarcane are mentioned, including CO – 419, CO – 740, and CO.M – 7125, each suited to specific cultivation conditions.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Irrigation">
+  <data key="d0">Irrigation</data>
+  <data key="d1">category</data>
+  <data key="d2">Irrigation involves the controlled application of water to the field to ensure optimal growing conditions for crops like sugarcane.&lt;SEP&gt;Irrigation practices are essential for sugarcane, with specific water requirements at varying growth stages to ensure optimal production.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a&lt;SEP&gt;chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Intercultural Operations">
+  <data key="d0">Intercultural Operations</data>
+  <data key="d1">category</data>
+  <data key="d2">Intercultural operations such as mulching, hoeing, and tying of cane are necessary practices to enhance growth and protect crops in the field.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Sugarcane Productivity">
+  <data key="d0">Sugarcane Productivity</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane productivity in India is around 67 t/ha, indicating the yield per hectare that is significant for agricultural performance.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Cultivation Area">
+  <data key="d0">Cultivation Area</data>
+  <data key="d1">category</data>
+  <data key="d2">Sugarcane is cultivated in an area of 4.4 lakh acres in India, impacting the structure of the agricultural landscape.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Annual Production">
+  <data key="d0">Annual Production</data>
+  <data key="d1">category</data>
+  <data key="d2">India's annual sugarcane production reaches 170 M.T., highlighting its importance in the sugar industry.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Seed Treatment">
+  <data key="d0">Seed Treatment</data>
+  <data key="d1">category</data>
+  <data key="d2">Seed treatment is a crucial process for better germination and growth of sugarcane, involving various chemical treatments.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Sowing Seasons">
+  <data key="d0">Sowing Seasons</data>
+  <data key="d1">category</data>
+  <data key="d2">Planting of sugarcane is done in three specific seasons: suru (January-February), adsali (July-August), and pre-seasonal (October-November).</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Water Logging">
+  <data key="d0">Water Logging</data>
+  <data key="d1">category</data>
+  <data key="d2">Water logging during germination is detrimental as it can lead to rotting of sugarcane setts, a critical consideration in irrigation.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Intercultural Operations Techniques">
+  <data key="d0">Intercultural Operations Techniques</data>
+  <data key="d1">category</data>
+  <data key="d2">Techniques such as hoeing, earthing-up, and tying of canes are essential intercultural operations that impact sugarcane cultivation.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Moisture Control">
+  <data key="d0">Moisture Control</data>
+  <data key="d1">category</data>
+  <data key="d2">Moisture control through practices like mulching is important to decrease evaporation and improve sugarcane yield.</data>
+  <data key="d3">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Termites">
+  <data key="d0">Termites</data>
+  <data key="d1">pest</data>
+  <data key="d2">Termites are pests that attack planted sugarcane setts, damaging the roots and canes, and can lead to plant death.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Early Shoot-Borer">
+  <data key="d0">Early Shoot-Borer</data>
+  <data key="d1">pest</data>
+  <data key="d2">Early shoot-borer is a pest that affects sugarcane, causing dead-hearts and is most active from April to August.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Internode Borer">
+  <data key="d0">Internode Borer</data>
+  <data key="d1">pest</data>
+  <data key="d2">Internode borer is a caterpillar pest active from July until harvest, damaging the growing points of sugarcane plants.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Red Rot">
+  <data key="d0">Red Rot</data>
+  <data key="d1">disease</data>
+  <data key="d2">Red rot is a fungal disease affecting sugarcane, characterized by symptoms appearing when the crop is about six months old.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Whip Smut">
+  <data key="d0">Whip Smut</data>
+  <data key="d1">disease</data>
+  <data key="d2">Whip smut is a fungal disease that appears from one month old to harvest, leading to excessive tillering and producing a black whip-like structure.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Grassy Shoot Disease">
+  <data key="d0">Grassy Shoot Disease</data>
+  <data key="d1">disease</data>
+  <data key="d2">Grassy shoot disease is caused by a Mycoplasma-like organism, resulting in stunted growth and yellowing of leaves.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Control Measures">
+  <data key="d0">Control Measures</data>
+  <data key="d1">category</data>
+  <data key="d2">Control measures encompass various strategies employed to mitigate pest attacks and diseases in sugarcane cultivation.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Sugarcane Planting and Care Techniques">
+  <data key="d0">Sugarcane Planting and Care Techniques</data>
+  <data key="d1">category</data>
+  <data key="d2">The techniques include irrigation management, hoeings, tying of canes, and pest and disease control to ensure healthy growth of sugarcane.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Final Earthing-Up">
+  <data key="d0">Final Earthing-Up</data>
+  <data key="d1">category</data>
+  <data key="d2">Final earthing-up is a crucial agricultural practice that should be completed before the monsoon rains and generally coincides with the final dose of fertilizer application to manage weeds.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Hoeings and Weedings">
+  <data key="d0">Hoeings and Weedings</data>
+  <data key="d1">category</data>
+  <data key="d2">Hoeings and weedings refer to the agricultural practices performed to manage weeds during the initial growth stages of crops.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Cane Tying">
+  <data key="d0">Cane Tying</data>
+  <data key="d1">category</data>
+  <data key="d2">Cane tying is the practice of securing sugarcane stalks to prevent them from swaying or lodging during windy conditions.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Crop Rotation">
+  <data key="d0">Crop Rotation</data>
+  <data key="d1">category</data>
+  <data key="d2">Crop rotation is an agricultural practice that involves alternating the types of crops grown in a particular area to improve soil health and manage pests.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Hand Sugar Refractometer">
+  <data key="d0">Hand Sugar Refractometer</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The hand sugar refractometer is a device used to assess the maturity of sugarcane by measuring the sugar content in the stalk.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Small Mill Test (SMT)">
+  <data key="d0">Small Mill Test (SMT)</data>
+  <data key="d1">event</data>
+  <data key="d2">The Small Mill Test is a method for analyzing the maturity status of sugarcane by crushing a sample and assessing various quality metrics.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Bamboos">
+  <data key="d0">Bamboos</data>
+  <data key="d1">equipment</data>
+  <data key="d2">Bamboos are used as props to support sugarcane stalks in some agricultural practices to prevent them from bending or breaking during winds.</data>
+  <data key="d3">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Cooperative">
+  <data key="d0">Cooperative</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Cooperative is involved in the sugarcane harvesting process, coordinating with farmers for cutting orders based on planting dates and maturity status of the cane.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Sugarcane Harvest">
+  <data key="d0">Sugarcane Harvest</data>
+  <data key="d1">event</data>
+  <data key="d2">The Sugarcane Harvest is a seasonal event that begins around November and lasts for approximately 150 days, during which sugarcane is harvested and processed.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Laboratory">
+  <data key="d0">Laboratory</data>
+  <data key="d1">category</data>
+  <data key="d2">The laboratory is where samples of sugarcane are analyzed for metrics like poll, brix, purity, and ccs%, determining the maturity status of the cane.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Semi-Trailers">
+  <data key="d0">Semi-Trailers</data>
+  <data key="d1">category</data>
+  <data key="d2">Semi-trailers are used for transporting harvested sugarcane from the transfer stations after it has been cut and processed.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Harvesting Unit">
+  <data key="d0">Harvesting Unit</data>
+  <data key="d1">category</data>
+  <data key="d2">Harvesting Unit refers to the equipment and machinery used in the process of harvesting sugarcane, including harvesters and tractors.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567172</data>
+</node>
+<node id="Maturity Status">
+  <data key="d0">Maturity Status</data>
+  <data key="d1">category</data>
+  <data key="d2">Maturity Status indicates the level of development of the sugarcane plants, which is crucial for determining the timing of the harvest.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567173</data>
+</node>
+<node id="Grinding Capacity">
+  <data key="d0">Grinding Capacity</data>
+  <data key="d1">category</data>
+  <data key="d2">Grinding Capacity refers to the amount of sugarcane that the mill can process, which is a key consideration in planning the harvest.</data>
+  <data key="d3">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1756567173</data>
+</node>
+<edge source="Groundnut" target="Gujarat">
+  <data key="d6">8.0</data>
+  <data key="d7">Groundnut is an important crop produced in Gujarat, contributing to its agricultural economy.</data>
+  <data key="d8">agriculture,crops</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567114</data>
+</edge>
+<edge source="Groundnut" target="Andhra Pradesh">
+  <data key="d6">8.0</data>
+  <data key="d7">Groundnut is an important crop produced in Andhra Pradesh, contributing to its agricultural economy.</data>
+  <data key="d8">agriculture,crops</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Tamil Nadu">
+  <data key="d6">8.0</data>
+  <data key="d7">Groundnut is an important crop produced in Tamil Nadu, contributing to its agricultural economy.</data>
+  <data key="d8">agriculture,crops</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Karnataka">
+  <data key="d6">8.0</data>
+  <data key="d7">Groundnut is an important crop produced in Karnataka, contributing to its agricultural economy.</data>
+  <data key="d8">agriculture,crops</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Orissa">
+  <data key="d6">7.0</data>
+  <data key="d7">Groundnut has irrigated areas in Orissa suitable for its cultivation.</data>
+  <data key="d8">agriculture,crops</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Heptachlor">
+  <data key="d6">9.0</data>
+  <data key="d7">Heptachlor is used in the cultivation of groundnut to manage pests.</data>
+  <data key="d8">cultivation practices,pest management</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Chlordane">
+  <data key="d6">9.0</data>
+  <data key="d7">Chlordane is used in the cultivation of groundnut to manage pests.</data>
+  <data key="d8">cultivation practices,pest management</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Rhizobium">
+  <data key="d6">10.0</data>
+  <data key="d7">The application of Rhizobium increases nodulation and benefits groundnut cultivation.</data>
+  <data key="d8">biological treatment,enhancement</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Lasso">
+  <data key="d6">9.0</data>
+  <data key="d7">Lasso is used in groundnut cultivation for controlling weeds, aiding crop health.</data>
+  <data key="d8">agricultural practices,weed control</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Tok-E-25">
+  <data key="d6">9.0</data>
+  <data key="d7">Tok-E-25 is used in groundnut cultivation for controlling weeds, aiding crop health.</data>
+  <data key="d8">agricultural practices,weed control</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Kharif Crop">
+  <data key="d6">8.0</data>
+  <data key="d7">Groundnut is categorized as a kharif crop, signifying its cultivation timing during the monsoon season.</data>
+  <data key="d8">agricultural timing,crop classification</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="May-June">
+  <data key="d6">9.0</data>
+  <data key="d7">Groundnut is primarily sown during the period of May-June, aligning with the monsoon rains.</data>
+  <data key="d8">agricultural practice,sowing period</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Irrigated Crop">
+  <data key="d6">7.0</data>
+  <data key="d7">Groundnut can also be cultivated as an irrigated crop during specified months, diversifying its agricultural methods.</data>
+  <data key="d8">cultivation methods,irrigation</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Artificial Fibre">
+  <data key="d6">8.0</data>
+  <data key="d7">The cake left over from groundnut oil extraction can be utilized in manufacturing artificial fibre.</data>
+  <data key="d8">by-products,industrial use</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Weeds">
+  <data key="d6">9.0</data>
+  <data key="d7">Weeds need to be managed to ensure healthy growth of groundnut, as they compete for nutrients and resources.</data>
+  <data key="d8">crop management,pest control</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="White Grubs">
+  <data key="d6">8.0</data>
+  <data key="d7">White grubs are pests that specifically affect groundnut cultivation and require control measures to safeguard the crop.</data>
+  <data key="d8">agricultural impact,pest management</data>
+  <data key="d9">chunk-dd1428dd14e4b7a9e9c6325f47a488cb</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Pest Leaf-miner">
+  <data key="d6">8.0</data>
+  <data key="d7">The Pest Leaf-miner adversely affects groundnut plants by mining the leaves during specific seasons.</data>
+  <data key="d8">crop management,pest impact</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Groundnut Aphid">
+  <data key="d6">9.0</data>
+  <data key="d7">The Groundnut Aphid threatens the health of groundnuts by transmitting virus diseases.</data>
+  <data key="d8">disease vector,pest threat</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="White Grub">
+  <data key="d6">8.0</data>
+  <data key="d7">White Grub causes damage to groundnut plants by feeding on roots, resulting in plant death.</data>
+  <data key="d8">pest damage,root health</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Root Rot">
+  <data key="d6">9.0</data>
+  <data key="d7">Root Rot affects groundnuts, leading to significant plant decline and collapse.</data>
+  <data key="d8">disease impact,plant health</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Tikka Disease">
+  <data key="d6">8.0</data>
+  <data key="d7">Tikka Disease presents symptoms on groundnut leaves, leading to premature shedding.</data>
+  <data key="d8">disease symptoms,plant impact</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Bunchy Top">
+  <data key="d6">7.0</data>
+  <data key="d7">Bunchy Top reduces the viability of groundnut plants by causing malformed leaves and internodes.</data>
+  <data key="d8">crop viability,disease impact</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut" target="Harvesting">
+  <data key="d6">9.0</data>
+  <data key="d7">Harvesting is a critical process for collecting groundnut crops once they show signs of maturity.</data>
+  <data key="d8">crop management,harvesting techniques</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Pest Leaf-miner" target="Carbaryl">
+  <data key="d6">8.0</data>
+  <data key="d7">Carbaryl is used to effectively control the Pest Leaf-miner infestation in crops.</data>
+  <data key="d8">pest management,pesticide effectiveness</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut Aphid" target="Dimethoate">
+  <data key="d6">7.0</data>
+  <data key="d7">Dimethoate is recommended for spraying to control the population of the Groundnut aphid.</data>
+  <data key="d8">chemical treatment,pest control</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut Aphid" target="Phosphamidon">
+  <data key="d6">7.0</data>
+  <data key="d7">Phosphamidon is utilized to manage infestations of the Groundnut aphid, protecting crop health.</data>
+  <data key="d8">agricultural chemicals,pest management</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut Aphid" target="Monocroptophos">
+  <data key="d6">7.0</data>
+  <data key="d7">Monocroptophos is applied to combat the Groundnut aphid, enhancing crop protection.</data>
+  <data key="d8">chemical use,pest control</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Groundnut Aphid" target="Methyl-demeton">
+  <data key="d6">7.0</data>
+  <data key="d7">Methyl-demeton is employed to reduce the impact of the Groundnut aphid on crops.</data>
+  <data key="d8">insecticide application,pest control</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Root Rot" target="Agrosan GN">
+  <data key="d6">6.0</data>
+  <data key="d7">Agrosan GN is recommended for treating seeds to prevent diseases like Root Rot in groundnuts.</data>
+  <data key="d8">disease prevention,seed treatment</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Root Rot" target="Ceresan">
+  <data key="d6">6.0</data>
+  <data key="d7">Ceresan is utilized to treat seeds against Root Rot and improve crop resilience.</data>
+  <data key="d8">disease management,seed protection</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Root Rot" target="Thiram">
+  <data key="d6">7.0</data>
+  <data key="d7">Thiram helps prevent Root Rot by treating seeds before planting.</data>
+  <data key="d8">disease management,prevention</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Tikka Disease" target="Brestan">
+  <data key="d6">7.0</data>
+  <data key="d7">Brestan is used to spray on groundnuts to control and manage Tikka Disease.</data>
+  <data key="d8">disease control,protective measures</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Tikka Disease" target="Bordeaux Mixture">
+  <data key="d6">8.0</data>
+  <data key="d7">Bordeaux Mixture is applied to combat Tikka Disease in groundnuts.</data>
+  <data key="d8">crop protection,fungicide application</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Tikka Disease" target="Ziram">
+  <data key="d6">7.0</data>
+  <data key="d7">Ziram is employed to treat groundnuts against the Tikka Disease effects.</data>
+  <data key="d8">disease prevention,fungicide</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Tikka Disease" target="Zineb">
+  <data key="d6">7.0</data>
+  <data key="d7">Zineb is utilized in controlling Tikka Disease in groundnut plants.</data>
+  <data key="d8">disease management,fungicide effectiveness</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Tikka Disease" target="Maneb">
+  <data key="d6">7.0</data>
+  <data key="d7">Maneb is a chemical that aids in controlling Tikka Disease in crops.</data>
+  <data key="d8">disease control,fungicide application</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Harvesting" target="Semi-spreading varieties">
+  <data key="d6">6.0</data>
+  <data key="d7">Semi-spreading varieties of groundnuts require specific harvesting techniques, typically through hand pulling.</data>
+  <data key="d8">crop type,harvesting method</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Harvesting" target="Spreading types">
+  <data key="d6">6.0</data>
+  <data key="d7">Spreading types of groundnuts are harvested using more labor-intensive methods such as digging or ploughing.</data>
+  <data key="d8">crop type,harvesting method</data>
+  <data key="d9">chunk-11e53372d1d8c141cfd659787b9eeee4</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567115</data>
+</edge>
+<edge source="Harvesting" target="Soyabean">
+  <data key="d6">8.0</data>
+  <data key="d7">The harvesting process is linked to soyabean as it specifies how and when to gather the crop when mature.</data>
+  <data key="d8">crop management</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Harvesting" target="Sugarcane">
+  <data key="d6">9.0</data>
+  <data key="d7">Harvesting is the culmination of the sugarcane growth process, taking place after the crop reaches maturity.</data>
+  <data key="d8">agricultural process,crop collection</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Soyabean" target="Kharif Season">
+  <data key="d6">8.0</data>
+  <data key="d7">Soyabean can be effectively sown during the Kharif season which occurs from late June to early July.</data>
+  <data key="d8">cropping season</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Spring Sowing">
+  <data key="d6">8.0</data>
+  <data key="d7">Soyabean can also be planted during the spring sowing period, typically from February 15 to March 15.</data>
+  <data key="d8">cropping season</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Rhizobium Culture">
+  <data key="d6">9.0</data>
+  <data key="d7">Seeds of soyabean are treated with Rhizobium culture to improve nitrogen fixation in the soil.</data>
+  <data key="d8">agricultural treatment</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Fertilizers">
+  <data key="d6">9.0</data>
+  <data key="d7">The growth of soyabean is enhanced through the application of specific fertilizers for nutritional support.</data>
+  <data key="d8">nutritional support</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Water Requirement">
+  <data key="d6">9.0</data>
+  <data key="d7">Soyabean has defined water requirements critical at various growth stages for optimal yield.</data>
+  <data key="d8">irrigation needs</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Cultivation Practices">
+  <data key="d6">9.0</data>
+  <data key="d7">Cultivation practices are essential for the successful planting and maintenance of soyabean crops.</data>
+  <data key="d8">agricultural method</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Crop Rotation and Inter Cropping">
+  <data key="d6">8.0</data>
+  <data key="d7">Soyabean can be rotated with other crops in crop rotation and inter cropping practices for better yield.</data>
+  <data key="d8">farming strategy</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Sandy Loam">
+  <data key="d6">8.0</data>
+  <data key="d7">Sandy loam is identified as the best soil type for the successful cultivation of soyabean crops.</data>
+  <data key="d8">soil quality</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Weeding">
+  <data key="d6">8.0</data>
+  <data key="d7">Weeding is a crucial practice for maintaining the health of soyabean crops during their growth phase.</data>
+  <data key="d8">crop maintenance</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Hoeing">
+  <data key="d6">7.0</data>
+  <data key="d7">Hoeing is part of the aftercare practices needed to maintain soyabean crops weed-free and healthy.</data>
+  <data key="d8">crop maintenance</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Herbicides">
+  <data key="d6">9.0</data>
+  <data key="d7">Herbicides, such as Toke 25, are applied to soyabean crops to control weeds prior to planting.</data>
+  <data key="d8">crop protection</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Nitrogen Requirement">
+  <data key="d6">9.0</data>
+  <data key="d7">The nitrogen requirement highlights the need for additional nitrogen for optimal development of the soyabean crop.</data>
+  <data key="d8">nutritional needs</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Sign of Maturity">
+  <data key="d6">8.0</data>
+  <data key="d7">Signs of maturity indicate when the soyabean crop is ready for harvest, which involves specific visible changes in the plant.</data>
+  <data key="d8">crop maturity indicators</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Soyabean" target="Average Yield">
+  <data key="d6">7.0</data>
+  <data key="d7">The average yield provides a benchmark for the productive output expected from soyabean cultivation.</data>
+  <data key="d8">productivity measure</data>
+  <data key="d9">chunk-5470ec64d5d6e0a733bc41912ea3c5b5</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567141</data>
+</edge>
+<edge source="Fertilizers" target="Sugarcane">
+  <data key="d6">9.0</data>
+  <data key="d7">Fertilizers are necessary for optimal sugarcane growth, affecting productivity and yield outcomes.</data>
+  <data key="d8">agricultural inputs,productivity</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="India">
+  <data key="d6">10.0</data>
+  <data key="d7">Sugarcane is primarily grown in India, which is crucial for the country's agricultural economy.</data>
+  <data key="d8">agricultural significance,cash crop</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Farmers">
+  <data key="d6">9.0</data>
+  <data key="d7">Farmers are directly involved in the cultivation of sugarcane, which forms the basis of their livelihood.</data>
+  <data key="d8">agriculture,economic dependency</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Climate Requirements">
+  <data key="d6">9.0</data>
+  <data key="d7">The specific climate requirements are vital for the successful cultivation and growth of sugarcane.</data>
+  <data key="d8">agricultural practices,growth conditions</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Soil Requirements">
+  <data key="d6">9.0</data>
+  <data key="d7">The soil requirements dictate the types of soils suitable for sugarcane farming, impacting yields and growth viability.</data>
+  <data key="d8">agricultural practices,cultivation techniques</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Irrigation">
+  <data key="d6">19.0</data>
+  <data key="d7">Irrigation practices are vital for sugarcane cultivation to provide necessary water for growth and development.&lt;SEP&gt;Proper irrigation is essential to meet the water needs of sugarcane during critical growth stages.</data>
+  <data key="d8">agricultural practice,farming practices,resource management,water management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a&lt;SEP&gt;chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Intercultural Operations">
+  <data key="d6">8.0</data>
+  <data key="d7">Intercultural operations are necessary maintenance tasks that enhance sugarcane growth and protect against environmental factors.</data>
+  <data key="d8">agricultural techniques,crop maintenance</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Sugarcane Productivity">
+  <data key="d6">9.0</data>
+  <data key="d7">Sugarcane productivity is a measure of the farming success and economic viability of sugarcane cultivation in India.</data>
+  <data key="d8">agricultural efficiency,production</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Cultivation Area">
+  <data key="d6">8.0</data>
+  <data key="d7">The extent of cultivation area for sugarcane directly influences the overall sugar production in India.</data>
+  <data key="d8">agricultural impact,production scale</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Seed Treatment">
+  <data key="d6">8.0</data>
+  <data key="d7">Seed treatment methods are vital for achieving better germination rates in sugarcane planting.</data>
+  <data key="d8">agricultural practices,crop management</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Sowing Seasons">
+  <data key="d6">8.0</data>
+  <data key="d7">The sowing seasons delineate the optimal times for planting sugarcane to ensure best growth outcomes.</data>
+  <data key="d8">agricultural timing,crop cycles</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Water Logging">
+  <data key="d6">9.0</data>
+  <data key="d7">Water logging poses a risk to sugarcane health during germination, necessitating careful irrigation management.</data>
+  <data key="d8">crop health,irrigation challenges</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Intercultural Operations Techniques">
+  <data key="d6">9.0</data>
+  <data key="d7">Intercultural operations techniques directly influence the productivity and health of sugarcane crops.</data>
+  <data key="d8">agricultural techniques,crop maintenance</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Moisture Control">
+  <data key="d6">9.0</data>
+  <data key="d7">Moisture control through mulching techniques affects the water demand and overall yield of sugarcane.</data>
+  <data key="d8">water management,yield improvement</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Termites">
+  <data key="d6">8.0</data>
+  <data key="d7">Termites pose a threat to sugarcane by attacking the planted setts and damaging the crop lead to its death.</data>
+  <data key="d8">agricultural impact,pest threat</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Early Shoot-Borer">
+  <data key="d6">9.0</data>
+  <data key="d7">Early shoot-borer is a pest that directly affects sugarcane by causing dead-hearts and reduces the overall yield.</data>
+  <data key="d8">agricultural pest,pest threat</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Internode Borer">
+  <data key="d6">7.0</data>
+  <data key="d7">Internode borers damage the growing points of sugarcane, impacting growth and yield potential.</data>
+  <data key="d8">crop damage,pest impact</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Red Rot">
+  <data key="d6">9.0</data>
+  <data key="d7">Red rot disease affects sugarcane, resulting in wilting and decay of the plants over time.</data>
+  <data key="d8">agricultural concern,disease impact</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Whip Smut">
+  <data key="d6">8.0</data>
+  <data key="d7">Whip smut results in excessive tillering and affects the growth of sugarcane, especially when young.</data>
+  <data key="d8">agricultural concern,disease impact</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Grassy Shoot Disease">
+  <data key="d6">8.0</data>
+  <data key="d7">Grassy shoot disease affects sugarcane through stunted growth and yellowing of leaves, impacting overall health.</data>
+  <data key="d8">agricultural threat,disease impact</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Final Earthing-Up">
+  <data key="d6">8.0</data>
+  <data key="d7">Final earthing-up is a necessary farming practice that directly supports the growth and health of sugarcane by preventing weed growth and ensuring roots are well positioned.</data>
+  <data key="d8">agricultural practice,crop support</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Hoeings and Weedings">
+  <data key="d6">8.0</data>
+  <data key="d7">Hoeings and weedings are essential during the first three months after planting sugarcane to manage competing vegetation.</data>
+  <data key="d8">agricultural technique,crop management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Cane Tying">
+  <data key="d6">7.0</data>
+  <data key="d7">Cane tying helps maintain the structural integrity of sugarcane crops during winds, ensuring they grow upright.</data>
+  <data key="d8">agricultural technique,crop support</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Crop Rotation">
+  <data key="d6">8.0</data>
+  <data key="d7">Crop rotation is recommended for sugarcane to improve yields and control diseases in subsequent planting cycles.</data>
+  <data key="d8">pest management,soil health</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Hand Sugar Refractometer">
+  <data key="d6">9.0</data>
+  <data key="d7">The hand sugar refractometer assists in determining the maturity of the sugarcane by measuring sugar content levels.</data>
+  <data key="d8">agricultural tool,maturity assessment</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Small Mill Test (SMT)">
+  <data key="d6">9.0</data>
+  <data key="d7">The Small Mill Test provides a laboratory method for assessing the maturity and quality of sugarcane crop samples.</data>
+  <data key="d8">maturity analysis,quality assessment</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Maturity Status">
+  <data key="d6">8.0</data>
+  <data key="d7">The maturity status of sugarcane is assessed to determine the appropriate timing for harvesting.</data>
+  <data key="d8">agricultural timing,crop development</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane" target="Harvesting Unit">
+  <data key="d6">9.0</data>
+  <data key="d7">The Harvesting Unit is utilized for cutting and processing sugarcane during the harvesting season.</data>
+  <data key="d8">agricultural operation,equipment usage</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="India" target="Brazil">
+  <data key="d6">8.0</data>
+  <data key="d7">India and Brazil are both significant players in the sugar industry, with Brazil leading in production and India being a major consumer.</data>
+  <data key="d8">global sugar industry,production</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Farmers" target="Sugar Industry">
+  <data key="d6">8.0</data>
+  <data key="d7">The sugar industry in India creates employment for farmers and supports their livelihoods, linking agricultural production to economic activity.</data>
+  <data key="d8">economic impact,employment</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Farmers" target="Cooperative">
+  <data key="d6">8.0</data>
+  <data key="d7">The Cooperative issues cutting orders to Farmers, coordinating the sugarcane harvest based on planting records and maturity timings.</data>
+  <data key="d8">agricultural labor,coordination</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Farmers" target="Sugarcane Harvest">
+  <data key="d6">9.0</data>
+  <data key="d7">Farmers participate in the Sugarcane Harvest by cutting and supplying sugarcane following the Cooperative's orders.</data>
+  <data key="d8">agricultural process,seasonal activity</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugar Industry" target="Annual Production">
+  <data key="d6">9.0</data>
+  <data key="d7">The annual production of sugarcane supports the sugar industry and affects economic activities related to sugar processing.</data>
+  <data key="d8">economic significance,industry support</data>
+  <data key="d9">chunk-36cd4a194beff3d5aa7efeecb6495664</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Termites" target="Control Measures">
+  <data key="d6">7.0</data>
+  <data key="d7">Control measures are necessary to manage termite infestations in sugarcane cultivation to protect the crop.</data>
+  <data key="d8">agricultural practices,pest management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Red Rot" target="Control Measures">
+  <data key="d6">9.0</data>
+  <data key="d7">Control measures are employed to address the impact of red rot disease on sugarcane cultivation.</data>
+  <data key="d8">agricultural practices,disease management</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Cane Tying" target="Bamboos">
+  <data key="d6">6.0</data>
+  <data key="d7">Bamboos are sometimes utilized as support for cane tying, enhancing the stability of sugarcane crops in adverse weather conditions.</data>
+  <data key="d8">agricultural practice,support structure</data>
+  <data key="d9">chunk-252cf8bb716d1836b2636ff6ef75ea1a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Cooperative" target="Grinding Capacity">
+  <data key="d6">8.0</data>
+  <data key="d7">The Cooperative plans the sugarcane harvest based on the mill's grinding capacity to maximize processing efficiency.</data>
+  <data key="d8">agricultural management,operational planning</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane Harvest" target="Semi-Trailers">
+  <data key="d6">7.0</data>
+  <data key="d7">Semi-trailers are utilized during the Sugarcane Harvest for transporting the harvested cane from transfer stations.</data>
+  <data key="d8">agricultural logistics,transportation</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Sugarcane Harvest" target="Laboratory">
+  <data key="d6">9.0</data>
+  <data key="d7">The Laboratory analyzes sugarcane samples taken during the Sugarcane Harvest to assess maturity and quality.</data>
+  <data key="d8">agricultural science,quality analysis</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+<edge source="Harvesting Unit" target="Grinding Capacity">
+  <data key="d6">7.0</data>
+  <data key="d7">The grinding capacity of the mill influences how sugarcane is harvested and transported, impacting the overall efficiency of the operation.</data>
+  <data key="d8">agricultural logistics,operational efficiency</data>
+  <data key="d9">chunk-87f38531174a31a19b52515bdc39f46a</data>
+  <data key="d10">unknown_source</data>
+  <data key="d11">1756567173</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,78 @@
+{
+  "doc-73bdf83eb2b3cb38cfb4479f7cc91534": {
+    "status": "processed",
+    "chunks_count": 6,
+    "chunks_list": [
+      "chunk-c2ea42d50f260ed0ca2ba487656946ac",
+      "chunk-5927aaa756fdcf472882ec418b930992",
+      "chunk-c05871d563d1b765ba18c5a3b7eb84ab",
+      "chunk-0d498533ef2ce6800b7f256a99fafd8b",
+      "chunk-ba0eaac5e4d07a10f4a31fe6ec479f4f",
+      "chunk-48b045eb8332844cc4d0edb126feb3d9"
+    ],
+    "content_summary": "THE ADVENTURE OF THE VEILED LODGER\n\n                               Arthur Conan Doyle\n\n     When one considers that Mr. Sherlock Holmes was in active practice\n     for twenty-three years, and that during seventeen of these I was\n     allowed to coope...",
+    "content_length": 25683,
+    "created_at": "2025-08-30T15:13:12.198847+00:00",
+    "updated_at": "2025-08-30T15:13:51.519634+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250830_204312_b7fed327",
+    "metadata": {
+      "processing_start_time": 1756566792,
+      "processing_end_time": 1756566831
+    }
+  },
+  "doc-a609f1a50f5c08677ec164bd8fab740b": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-dd1428dd14e4b7a9e9c6325f47a488cb",
+      "chunk-11e53372d1d8c141cfd659787b9eeee4"
+    ],
+    "content_summary": "Introduction:\nGroundnut (Arachis hypogaea L.) is important oilseed crop and oil content of the seed varies from 44-50%, depending on the varieties and agronomic conditions. It is also used in soap making, and in manufacturing cosmetics and lubricants...",
+    "content_length": 6528,
+    "created_at": "2025-08-30T15:18:02.181532+00:00",
+    "updated_at": "2025-08-30T15:18:35.570902+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250830_204802_073b6f80",
+    "metadata": {
+      "processing_start_time": 1756567082,
+      "processing_end_time": 1756567115
+    }
+  },
+  "doc-5470ec64d5d6e0a733bc41912ea3c5b5": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5470ec64d5d6e0a733bc41912ea3c5b5"
+    ],
+    "content_summary": "Ecological Requirements:\nClimate-\nSoyabean needs about 15 to 320C temperature for germination but for rapid growth the crop needs higher temperature. The crop requires about 60-65 cm annual rainfall drought at flowering or just before flowering resul...",
+    "content_length": 2912,
+    "created_at": "2025-08-30T15:18:35.608659+00:00",
+    "updated_at": "2025-08-30T15:19:01.842384+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250830_204835_8ba92a43",
+    "metadata": {
+      "processing_start_time": 1756567115,
+      "processing_end_time": 1756567141
+    }
+  },
+  "doc-d21a78c384a2e57b0ec12b38d360f0c7": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-36cd4a194beff3d5aa7efeecb6495664",
+      "chunk-252cf8bb716d1836b2636ff6ef75ea1a",
+      "chunk-87f38531174a31a19b52515bdc39f46a"
+    ],
+    "content_summary": "Introduction\nSugarcane (Saccharum officinarum L.) is the main sources of sugar in India and holds a prominent position as a cash crop. India is the world’s largest consumer and the second largest producer of sugar, topped only by Brazil. Nearly 2.8 l...",
+    "content_length": 11133,
+    "created_at": "2025-08-30T15:19:01.891535+00:00",
+    "updated_at": "2025-08-30T15:19:33.733947+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250830_204901_08f42019",
+    "metadata": {
+      "processing_start_time": 1756567141,
+      "processing_end_time": 1756567173
+    }
+  }
+}
