@@ -14,4 +14,3 @@ textract
 streamlit
 numpy
 python-dotenv
-black
