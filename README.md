@@ -1,28 +1,30 @@
-# Light-RAG Crop Information Extractor
+# Light-RAG Streamlit Application
 
-This project demonstrates the use of the `light-rag` library to build a Retrieval-Augmented Generation (RAG) system. It processes a collection of text documents about various crops, builds a knowledge graph, and allows users to ask questions about the content. The system also includes a feature to visualize the underlying knowledge graph.
+This project provides an interactive web application built with Streamlit to demonstrate the capabilities of the `light-rag` library. It allows users to upload text documents, build a knowledge base, and ask questions using a Retrieval-Augmented Generation (RAG) system. The application also includes a feature to visualize the underlying knowledge graph.
 
 ## Application Snapshots
 
-Here are some snapshots of the streamlit application:
+Here are some snapshots of the Streamlit application:
 
 <table>
   <tr>
-    <td><img src="test-light-rag/application-demo-snapshots/query.png" width="400"/></td>
-    <td><img src="test-light-rag/application-demo-snapshots/query_run.png" width="400"/></td>
+    <td><img src="application-snapshots/RAG-APP build database .png" width="400"/></td>
+    <td><img src="application-snapshots/RAG-APP query RAG database.png" width="400"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="test-light-rag/application-demo-snapshots/knowledge_graph.png" width="400"/></td>
+    <td colspan="2" align="center"><img src="application-snapshots/RAG-APP view knowledge graph.png" width="400"/></td>
   </tr>
 </table>
 
 ## Features
 
-- **Document Processing**: Ingests text files from a specified directory (`inputs/crops/`).
-- **Knowledge Graph Construction**: Automatically builds a knowledge graph from the document contents, storing entities and relationships.
-- **Vector Database**: Creates and stores vector embeddings for efficient semantic search.
-- **Natural Language Queries**: Allows users to ask questions in natural language and receive answers based on the processed documents.
-- **Interactive Visualization**: Generates an interactive HTML file (`knowledge_graph.html`) to visualize the relationships between different entities in the knowledge graph.
+-   **Interactive UI**: A user-friendly web interface built with Streamlit.
+-   **File Upload**: Upload one or more `.txt` files to build the knowledge base.
+-   **Dynamic Knowledge Base**: Build the RAG database on the fly from the uploaded documents.
+-   **Natural Language Queries**: Ask questions in natural language and get answers from the RAG system.
+-   **Customizable Search**: Choose from different search modes (`local`, `global`, `hybrid`, `naive`, `mix`) and response types (`Multiple Paragraphs`, `Single Paragraph`, `Bullet Points`).
+-   **Knowledge Graph Visualization**: View an interactive visualization of the knowledge graph extracted from the documents.
+-   **Reset Functionality**: Easily reset the RAG database to start over.
 
 ## Project Structure
 
@@ -30,14 +32,11 @@ Here are some snapshots of the streamlit application:
 .
 ├── .python-version
 ├── requirements.txt
-└── test-light-rag/
-    ├── test-light-rag.py      # Main script to build the knowledge base
-    ├── query.py               # Script to ask questions to the RAG system
-    ├── graph_viz.py           # Script to generate the knowledge graph visualization
-    ├── app.py                 # Script to run the interactive web application
-    ├── inputs/
-    │   └── crops/             # Source .txt documents
-    └── rag-working-dir/       # Stores the generated knowledge graph, vector DBs, and caches
+├── app.py                 # Main script to run the interactive web application
+├── utils.py               # Utility functions for the application
+├── uploads/               # Directory where uploaded files are temporarily stored
+├── rag-working-dir/       # Stores the generated knowledge graph, vector DBs, and caches
+└── graph/                 # Stores the generated knowledge graph visualization
 ```
 
 ## Setup
@@ -56,63 +55,28 @@ Here are some snapshots of the streamlit application:
 
 ## Usage
 
-Follow these steps to run the RAG pipeline.
-
-### 1. Build the Knowledge Base
-
-First, run the `test-light-rag.py` script. This will read all the text files from the `test-light-rag/inputs/crops/` directory, process them, and create the necessary knowledge base files in `test-light-rag/rag-working-dir/`.
-
-```bash
-python test-light-rag/test-light-rag.py
-```
-You should see output indicating that the RAG has been initialized and the documents have been inserted successfully.
-
-### 2. Query the Knowledge Base
-
-Once the knowledge base is built, you can ask questions. Open the `test-light-rag/query.py` file and modify the question in the `main` function.
-
-```python
-# Inside test-light-rag/query.py
-async def main():
-    rag = await load_rag()
-    # --- Change the question below ---
-    await query_rag(rag, "What are the common diseases for potatoes?")
-
-```
-
-Then, run the script:
-```bash
-python test-light-rag/query.py
-```
-The answer will be printed to the console.
-
-### 3. Visualize the Knowledge Graph
-
-To see a visual representation of the extracted information, run the `graph_viz.py` script.
-
-```bash
-python test-light-rag/graph_viz.py
-```
-
-This will generate a file named `knowledge_graph.html` in the `test-light-rag` directory. Open this file in your web browser to explore the interactive graph of entities and their relationships.
-
-## Interactive Web Application
-
-This project also includes an interactive web application built with Streamlit. The `app.py` script launches a web server that provides a user-friendly interface to interact with the RAG system.
-
-### Running the Web Application
-
 To run the web application, use the following command:
 
 ```bash
-streamlit run test-light-rag/app.py
+streamlit run app.py
 ```
 
 This will open a new tab in your web browser with the application.
 
-### Features
+### How It Works
 
-The web application has two main pages:
+The application is divided into three main pages:
 
-1.  **Query RAG**: This page allows you to enter a question and receive an answer from the RAG system. You can also select different search modes and response types.
-2.  **Knowledge Graph**: This page displays the interactive knowledge graph visualization, allowing you to explore the entities and relationships extracted from the documents.
+1.  **Build RAG Database**:
+    -   Upload one or more `.txt` files.
+    -   Click the "Build Database" button to process the files and create the knowledge base.
+
+2.  **Query RAG Database**:
+    -   Enter a question in the text area.
+    -   Select a search mode and response type.
+    -   Click "Get Answer" to see the response from the RAG system.
+
+3.  **View Knowledge Graph**:
+    -   This page displays an interactive visualization of the knowledge graph generated from the documents.
+
+You can reset the database at any time by clicking the "Reset RAG Database" button in the sidebar.
